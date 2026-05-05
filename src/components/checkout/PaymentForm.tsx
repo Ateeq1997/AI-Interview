@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Spinner } from '../ui/Spinner';
 import { CouponSection } from './CouponSection';
 import { PriceBreakdown } from '../../utils/pricing';

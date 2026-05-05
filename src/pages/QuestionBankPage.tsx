@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import FixedQuestionList from '../components/FixedQuestionList';
 import questionsData from '../data/question-bank-data.json';
 import { Question, QuestionFilters } from '../types';

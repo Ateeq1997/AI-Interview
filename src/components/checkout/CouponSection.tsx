@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { applyCoupon } from '../../utils/pricing';
 import { Spinner } from '../ui/Spinner';
 
