@@ -1,0 +1,5982 @@
+[
+  {
+    "id": "q-1",
+    "title": "When is caching NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 89,
+    "date": "2024-12-24T11:37:58.535Z",
+    "tags": [
+      "caching",
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-2",
+    "title": "Explain how reducers works in React",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 64,
+    "date": "2024-12-09T23:12:26.817Z",
+    "tags": [
+      "reducers",
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-3",
+    "title": "Build a responsive component using flexbox",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 53,
+    "date": "2024-11-06T03:41:00.550Z",
+    "tags": [
+      "flexbox",
+      "responsive"
+    ]
+  },
+  {
+    "id": "q-4",
+    "title": "Debug a TypeScript error involving utility-types",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 61,
+    "date": "2024-06-06T21:31:58.209Z",
+    "tags": [
+      "utility-types",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-5",
+    "title": "Compare media-queries with other CSS approaches",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 63,
+    "date": "2025-01-16T08:34:52.439Z",
+    "tags": [
+      "media-queries",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-6",
+    "title": "When is code-splitting NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 86,
+    "date": "2024-07-15T17:41:03.296Z",
+    "tags": [
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-7",
+    "title": "What are best practices for file-system in Node.js?",
+    "difficulty": "junior",
+    "topic": "Node.js",
+    "score": 77,
+    "date": "2025-04-17T20:08:48.314Z",
+    "tags": [
+      "file-system",
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-8",
+    "title": "Explain real-time in distributed systems",
+    "difficulty": "junior",
+    "topic": "System Design",
+    "score": 58,
+    "date": "2024-08-17T04:02:39.255Z",
+    "tags": [
+      "real-time",
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-9",
+    "title": "When is web-vitals NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 51,
+    "date": "2024-05-12T17:20:38.708Z",
+    "tags": [
+      "web-vitals",
+      "tree-shaking",
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-10",
+    "title": "When should you use cypress vs other approaches?",
+    "difficulty": "senior",
+    "topic": "Testing",
+    "score": 69,
+    "date": "2024-10-30T07:28:30.342Z",
+    "tags": [
+      "cypress",
+      "integration",
+      "mocking"
+    ]
+  },
+  {
+    "id": "q-11",
+    "title": "Debug a TypeScript error involving unions",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 83,
+    "date": "2024-04-24T04:47:00.000Z",
+    "tags": [
+      "enums"
+    ]
+  },
+  {
+    "id": "q-12",
+    "title": "Explain how resolvers works in GraphQL",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 72,
+    "date": "2024-01-16T02:13:00.000Z",
+    "tags": [
+      "federation"
+    ]
+  },
+  {
+    "id": "q-13",
+    "title": "When should you use docker vs other approaches?",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 91,
+    "date": "2024-08-02T07:28:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-14",
+    "title": "Compare memo with other React approaches",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 46,
+    "date": "2024-03-20T06:48:00.000Z",
+    "tags": [
+      "refs"
+    ]
+  },
+  {
+    "id": "q-15",
+    "title": "How do you test unions effectively?",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 74,
+    "date": "2024-05-15T01:46:00.000Z",
+    "tags": [
+      "utility-types",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-16",
+    "title": "How do you test unions effectively?",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 85,
+    "date": "2025-03-29T11:36:00.000Z",
+    "tags": [
+      "utility-types",
+      "decorators"
+    ]
+  },
+  {
+    "id": "q-17",
+    "title": "Compare generics with other TypeScript approaches",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 64,
+    "date": "2024-02-10T07:55:00.000Z",
+    "tags": [
+      "enums"
+    ]
+  },
+  {
+    "id": "q-18",
+    "title": "What are best practices for load-balancing in System Design?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 84,
+    "date": "2024-06-30T06:42:00.000Z",
+    "tags": [
+      "monitoring",
+      "sharding"
+    ]
+  },
+  {
+    "id": "q-19",
+    "title": "What are the trade-offs of using generics?",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 83,
+    "date": "2024-07-13T08:59:00.000Z",
+    "tags": [
+      "enums",
+      "generics",
+      "decorators"
+    ]
+  },
+  {
+    "id": "q-20",
+    "title": "Explain how vitest works in Testing",
+    "difficulty": "senior",
+    "topic": "Testing",
+    "score": 44,
+    "date": "2025-02-16T10:25:00.000Z",
+    "tags": [
+      "integration"
+    ]
+  },
+  {
+    "id": "q-21",
+    "title": "What are the trade-offs of using cluster?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 56,
+    "date": "2024-07-21T20:29:00.000Z",
+    "tags": [
+      "cluster",
+      "streams",
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-22",
+    "title": "When should you use modules vs other approaches?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 97,
+    "date": "2024-05-14T23:37:00.000Z",
+    "tags": [
+      "responsive"
+    ]
+  },
+  {
+    "id": "q-23",
+    "title": "When should you use docker vs other approaches?",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 95,
+    "date": "2024-09-09T02:48:00.000Z",
+    "tags": [
+      "kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "id": "q-24",
+    "title": "How would you implement generics at scale?",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 78,
+    "date": "2024-11-01T02:24:00.000Z",
+    "tags": [
+      "enums"
+    ]
+  },
+  {
+    "id": "q-25",
+    "title": "When is modules NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 89,
+    "date": "2024-12-15T17:48:00.000Z",
+    "tags": [
+      "async-await",
+      "event-loop",
+      "closures"
+    ]
+  },
+  {
+    "id": "q-26",
+    "title": "Build a responsive component using mocking",
+    "difficulty": "senior",
+    "topic": "Testing",
+    "score": 72,
+    "date": "2024-08-20T00:46:00.000Z",
+    "tags": [
+      "e2e"
+    ]
+  },
+  {
+    "id": "q-27",
+    "title": "When should you use variables vs other approaches?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 88,
+    "date": "2024-11-07T06:09:00.000Z",
+    "tags": [
+      "flexbox",
+      "responsive",
+      "animations"
+    ]
+  },
+  {
+    "id": "q-28",
+    "title": "What are best practices for modules in CSS?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 96,
+    "date": "2024-09-07T00:07:00.000Z",
+    "tags": [
+      "variables",
+      "modules",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-29",
+    "title": "How do you test load-balancing effectively?",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 92,
+    "date": "2025-04-29T02:05:00.000Z",
+    "tags": [
+      "caching"
+    ]
+  },
+  {
+    "id": "q-30",
+    "title": "Build a responsive component using decorators",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 53,
+    "date": "2024-05-15T16:55:00.000Z",
+    "tags": [
+      "generics",
+      "enums",
+      "intersections"
+    ]
+  },
+  {
+    "id": "q-31",
+    "title": "What are best practices for resolvers in GraphQL?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 55,
+    "date": "2024-08-12T16:28:00.000Z",
+    "tags": [
+      "caching",
+      "mutations",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-32",
+    "title": "How do you test express effectively?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 40,
+    "date": "2024-10-10T07:37:00.000Z",
+    "tags": [
+      "streams"
+    ]
+  },
+  {
+    "id": "q-33",
+    "title": "Explain how utility-types works in TypeScript",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 57,
+    "date": "2025-03-16T10:04:00.000Z",
+    "tags": [
+      "enums",
+      "utility-types",
+      "generics"
+    ]
+  },
+  {
+    "id": "q-34",
+    "title": "How do you test promises effectively?",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 91,
+    "date": "2024-10-22T15:15:00.000Z",
+    "tags": [
+      "event-loop"
+    ]
+  },
+  {
+    "id": "q-35",
+    "title": "How would you implement caching at scale?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 95,
+    "date": "2024-06-30T13:26:00.000Z",
+    "tags": [
+      "caching"
+    ]
+  },
+  {
+    "id": "q-36",
+    "title": "When is memo NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 48,
+    "date": "2024-05-07T06:12:00.000Z",
+    "tags": [
+      "context",
+      "hooks",
+      "suspense"
+    ]
+  },
+  {
+    "id": "q-37",
+    "title": "Debug a Performance error involving profiling",
+    "difficulty": "junior",
+    "topic": "Performance",
+    "score": 43,
+    "date": "2025-03-23T02:28:00.000Z",
+    "tags": [
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-38",
+    "title": "Build a responsive component using mutations",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 95,
+    "date": "2024-07-27T15:30:00.000Z",
+    "tags": [
+      "queries"
+    ]
+  },
+  {
+    "id": "q-39",
+    "title": "Explain how profiling works in Performance",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 58,
+    "date": "2024-07-18T08:59:00.000Z",
+    "tags": [
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-40",
+    "title": "Debug a Performance error involving code-splitting",
+    "difficulty": "junior",
+    "topic": "Performance",
+    "score": 87,
+    "date": "2024-05-31T06:03:00.000Z",
+    "tags": [
+      "tree-shaking",
+      "web-vitals",
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-41",
+    "title": "What are the trade-offs of using tdd?",
+    "difficulty": "junior",
+    "topic": "Testing",
+    "score": 72,
+    "date": "2024-09-14T16:10:00.000Z",
+    "tags": [
+      "unit"
+    ]
+  },
+  {
+    "id": "q-42",
+    "title": "When is decorators NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 96,
+    "date": "2024-12-11T07:25:00.000Z",
+    "tags": [
+      "utility-types"
+    ]
+  },
+  {
+    "id": "q-43",
+    "title": "Explain how monitoring works in DevOps",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 99,
+    "date": "2024-11-13T02:26:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-44",
+    "title": "What are best practices for monitoring in System Design?",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 82,
+    "date": "2024-05-02T08:25:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-45",
+    "title": "What are the trade-offs of using caching?",
+    "difficulty": "junior",
+    "topic": "System Design",
+    "score": 74,
+    "date": "2024-11-14T18:06:00.000Z",
+    "tags": [
+      "sharding",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-46",
+    "title": "Debug a Node.js error involving express",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 93,
+    "date": "2024-07-08T09:10:00.000Z",
+    "tags": [
+      "streams",
+      "middleware",
+      "cluster"
+    ]
+  },
+  {
+    "id": "q-47",
+    "title": "When should you use caching vs other approaches?",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 56,
+    "date": "2024-06-02T21:06:00.000Z",
+    "tags": [
+      "subscriptions",
+      "federation",
+      "queries"
+    ]
+  },
+  {
+    "id": "q-48",
+    "title": "Build a responsive component using decorators",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 85,
+    "date": "2024-05-19T09:38:00.000Z",
+    "tags": [
+      "enums"
+    ]
+  },
+  {
+    "id": "q-49",
+    "title": "Compare cypress with other Testing approaches",
+    "difficulty": "junior",
+    "topic": "Testing",
+    "score": 45,
+    "date": "2024-09-15T15:16:00.000Z",
+    "tags": [
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-50",
+    "title": "Build a responsive component using lazy-loading",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 75,
+    "date": "2024-11-22T08:10:00.000Z",
+    "tags": [
+      "caching",
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-51",
+    "title": "Build a responsive component using tree-shaking",
+    "difficulty": "senior",
+    "topic": "Performance",
+    "score": 77,
+    "date": "2024-10-06T01:53:00.000Z",
+    "tags": [
+      "caching",
+      "tree-shaking",
+      "web-vitals"
+    ]
+  },
+  {
+    "id": "q-52",
+    "title": "Explain how mutations works in GraphQL",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 97,
+    "date": "2024-06-06T11:57:00.000Z",
+    "tags": [
+      "resolvers"
+    ]
+  },
+  {
+    "id": "q-53",
+    "title": "When is integration NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 79,
+    "date": "2024-06-30T17:56:00.000Z",
+    "tags": [
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-54",
+    "title": "Build a responsive component using grid",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 87,
+    "date": "2025-03-27T13:01:00.000Z",
+    "tags": [
+      "variables"
+    ]
+  },
+  {
+    "id": "q-55",
+    "title": "Debug a Testing error involving vitest",
+    "difficulty": "junior",
+    "topic": "Testing",
+    "score": 64,
+    "date": "2024-05-16T05:50:00.000Z",
+    "tags": [
+      "vitest",
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-56",
+    "title": "What are best practices for portals in React?",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 82,
+    "date": "2024-06-05T07:14:00.000Z",
+    "tags": [
+      "suspense",
+      "context"
+    ]
+  },
+  {
+    "id": "q-57",
+    "title": "Compare express with other Node.js approaches",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 83,
+    "date": "2024-06-28T20:32:00.000Z",
+    "tags": [
+      "streams",
+      "cluster"
+    ]
+  },
+  {
+    "id": "q-58",
+    "title": "Build a responsive component using subscriptions",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 78,
+    "date": "2024-10-24T08:02:00.000Z",
+    "tags": [
+      "queries",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-59",
+    "title": "How do you test profiling effectively?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 56,
+    "date": "2024-09-18T03:24:00.000Z",
+    "tags": [
+      "tree-shaking",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-60",
+    "title": "What are best practices for suspense in React?",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 79,
+    "date": "2024-08-08T02:42:00.000Z",
+    "tags": [
+      "refs",
+      "hooks",
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-61",
+    "title": "Compare tdd with other Testing approaches",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 84,
+    "date": "2024-12-07T13:20:00.000Z",
+    "tags": [
+      "vitest",
+      "unit",
+      "e2e"
+    ]
+  },
+  {
+    "id": "q-62",
+    "title": "How would you implement monitoring at scale?",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 79,
+    "date": "2024-12-12T23:57:00.000Z",
+    "tags": [
+      "load-balancing",
+      "monitoring",
+      "microservices"
+    ]
+  },
+  {
+    "id": "q-63",
+    "title": "Compare ci-cd with other DevOps approaches",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 69,
+    "date": "2024-05-26T06:27:00.000Z",
+    "tags": [
+      "nginx",
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-64",
+    "title": "What are the trade-offs of using event-loop?",
+    "difficulty": "junior",
+    "topic": "JavaScript",
+    "score": 58,
+    "date": "2025-02-10T23:10:00.000Z",
+    "tags": [
+      "modules",
+      "promises"
+    ]
+  },
+  {
+    "id": "q-65",
+    "title": "Debug a GraphQL error involving queries",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 49,
+    "date": "2024-12-10T09:14:00.000Z",
+    "tags": [
+      "caching",
+      "federation",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-66",
+    "title": "How do you test portals effectively?",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 96,
+    "date": "2025-03-11T02:29:00.000Z",
+    "tags": [
+      "suspense"
+    ]
+  },
+  {
+    "id": "q-67",
+    "title": "How would you implement deployment at scale?",
+    "difficulty": "mid",
+    "topic": "DevOps",
+    "score": 81,
+    "date": "2024-09-10T12:15:00.000Z",
+    "tags": [
+      "deployment"
+    ]
+  },
+  {
+    "id": "q-68",
+    "title": "Build a responsive component using suspense",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 43,
+    "date": "2025-02-15T22:33:00.000Z",
+    "tags": [
+      "refs"
+    ]
+  },
+  {
+    "id": "q-69",
+    "title": "Build a responsive component using resolvers",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 88,
+    "date": "2025-02-14T14:42:00.000Z",
+    "tags": [
+      "queries"
+    ]
+  },
+  {
+    "id": "q-70",
+    "title": "What are the trade-offs of using event-loop?",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 68,
+    "date": "2025-04-04T05:47:00.000Z",
+    "tags": [
+      "modules",
+      "event-loop",
+      "prototypes"
+    ]
+  },
+  {
+    "id": "q-71",
+    "title": "When should you use sharding vs other approaches?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 68,
+    "date": "2024-09-05T20:15:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-72",
+    "title": "What are best practices for unions in TypeScript?",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 49,
+    "date": "2025-04-02T17:05:00.000Z",
+    "tags": [
+      "unions",
+      "generics",
+      "enums"
+    ]
+  },
+  {
+    "id": "q-73",
+    "title": "Debug a Node.js error involving cluster",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 74,
+    "date": "2024-02-02T13:26:00.000Z",
+    "tags": [
+      "cluster",
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-74",
+    "title": "How would you implement prototypes at scale?",
+    "difficulty": "junior",
+    "topic": "JavaScript",
+    "score": 94,
+    "date": "2025-04-08T18:44:00.000Z",
+    "tags": [
+      "closures",
+      "promises"
+    ]
+  },
+  {
+    "id": "q-75",
+    "title": "Compare kubernetes with other DevOps approaches",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 74,
+    "date": "2025-01-20T12:54:00.000Z",
+    "tags": [
+      "nginx",
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-76",
+    "title": "How would you implement subscriptions at scale?",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 82,
+    "date": "2024-09-05T00:24:00.000Z",
+    "tags": [
+      "mutations",
+      "resolvers",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-77",
+    "title": "When should you use web-vitals vs other approaches?",
+    "difficulty": "junior",
+    "topic": "Performance",
+    "score": 45,
+    "date": "2024-01-14T12:37:00.000Z",
+    "tags": [
+      "code-splitting",
+      "profiling",
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-78",
+    "title": "Explain how code-splitting works in Performance",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 69,
+    "date": "2024-05-13T12:20:00.000Z",
+    "tags": [
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-79",
+    "title": "How would you implement e2e at scale?",
+    "difficulty": "junior",
+    "topic": "Testing",
+    "score": 87,
+    "date": "2024-05-09T02:30:00.000Z",
+    "tags": [
+      "vitest",
+      "mocking"
+    ]
+  },
+  {
+    "id": "q-80",
+    "title": "When is mutations NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 55,
+    "date": "2025-02-03T20:02:00.000Z",
+    "tags": [
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-81",
+    "title": "Debug a Node.js error involving middleware",
+    "difficulty": "junior",
+    "topic": "Node.js",
+    "score": 76,
+    "date": "2024-03-05T15:42:00.000Z",
+    "tags": [
+      "events"
+    ]
+  },
+  {
+    "id": "q-82",
+    "title": "Build a responsive component using streams",
+    "difficulty": "junior",
+    "topic": "Node.js",
+    "score": 89,
+    "date": "2024-11-06T19:47:00.000Z",
+    "tags": [
+      "cluster",
+      "streams"
+    ]
+  },
+  {
+    "id": "q-83",
+    "title": "Compare flexbox with other CSS approaches",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 65,
+    "date": "2024-10-21T21:58:00.000Z",
+    "tags": [
+      "flexbox",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-84",
+    "title": "Debug a Node.js error involving cluster",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 94,
+    "date": "2024-02-22T22:49:00.000Z",
+    "tags": [
+      "events"
+    ]
+  },
+  {
+    "id": "q-85",
+    "title": "What are best practices for ci-cd in DevOps?",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 44,
+    "date": "2024-09-29T13:42:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-86",
+    "title": "When is resolvers NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 85,
+    "date": "2024-08-09T11:40:00.000Z",
+    "tags": [
+      "subscriptions",
+      "queries",
+      "resolvers"
+    ]
+  },
+  {
+    "id": "q-87",
+    "title": "Compare modules with other CSS approaches",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 69,
+    "date": "2024-11-11T17:49:00.000Z",
+    "tags": [
+      "grid",
+      "responsive"
+    ]
+  },
+  {
+    "id": "q-88",
+    "title": "When is code-splitting NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 76,
+    "date": "2024-05-22T14:15:00.000Z",
+    "tags": [
+      "web-vitals",
+      "lazy-loading",
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-89",
+    "title": "What are best practices for nginx in DevOps?",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 91,
+    "date": "2024-04-03T15:13:00.000Z",
+    "tags": [
+      "nginx",
+      "kubernetes",
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-90",
+    "title": "Compare monitoring with other System Design approaches",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 45,
+    "date": "2024-10-11T00:33:00.000Z",
+    "tags": [
+      "sharding",
+      "real-time"
+    ]
+  },
+  {
+    "id": "q-91",
+    "title": "What are the trade-offs of using cluster?",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 90,
+    "date": "2024-11-26T22:31:00.000Z",
+    "tags": [
+      "file-system",
+      "cluster",
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-92",
+    "title": "How would you implement suspense at scale?",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 70,
+    "date": "2024-12-20T07:19:00.000Z",
+    "tags": [
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-93",
+    "title": "What are the trade-offs of using subscriptions?",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 47,
+    "date": "2024-05-18T09:16:00.000Z",
+    "tags": [
+      "subscriptions",
+      "resolvers",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-94",
+    "title": "Build a responsive component using cluster",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 57,
+    "date": "2024-04-08T06:47:00.000Z",
+    "tags": [
+      "express",
+      "events"
+    ]
+  },
+  {
+    "id": "q-95",
+    "title": "Compare docker with other DevOps approaches",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 40,
+    "date": "2024-04-26T11:11:00.000Z",
+    "tags": [
+      "monitoring",
+      "kubernetes",
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-96",
+    "title": "Explain how queries works in GraphQL",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 80,
+    "date": "2024-10-10T09:44:00.000Z",
+    "tags": [
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-97",
+    "title": "Compare event-loop with other JavaScript approaches",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 51,
+    "date": "2024-08-28T15:28:00.000Z",
+    "tags": [
+      "closures"
+    ]
+  },
+  {
+    "id": "q-98",
+    "title": "How would you implement context at scale?",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 49,
+    "date": "2024-09-08T02:36:00.000Z",
+    "tags": [
+      "portals",
+      "hooks"
+    ]
+  },
+  {
+    "id": "q-99",
+    "title": "When should you use flexbox vs other approaches?",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 89,
+    "date": "2025-01-26T13:38:00.000Z",
+    "tags": [
+      "animations",
+      "flexbox",
+      "grid"
+    ]
+  },
+  {
+    "id": "q-100",
+    "title": "How do you test subscriptions effectively?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 79,
+    "date": "2024-08-07T09:36:00.000Z",
+    "tags": [
+      "resolvers",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-101",
+    "title": "Compare generics with other TypeScript approaches",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 51,
+    "date": "2024-12-04T02:10:00.000Z",
+    "tags": [
+      "enums"
+    ]
+  },
+  {
+    "id": "q-102",
+    "title": "How would you implement queries at scale?",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 58,
+    "date": "2024-08-18T22:38:00.000Z",
+    "tags": [
+      "mutations"
+    ]
+  },
+  {
+    "id": "q-103",
+    "title": "What are the trade-offs of using error-boundaries?",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 90,
+    "date": "2024-02-06T21:14:00.000Z",
+    "tags": [
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-104",
+    "title": "Debug a DevOps error involving monitoring",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 92,
+    "date": "2024-11-27T04:58:00.000Z",
+    "tags": [
+      "docker",
+      "nginx",
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-105",
+    "title": "Compare grid with other CSS approaches",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 68,
+    "date": "2024-10-31T23:52:00.000Z",
+    "tags": [
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-106",
+    "title": "How would you implement enums at scale?",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 68,
+    "date": "2025-04-27T08:32:00.000Z",
+    "tags": [
+      "enums",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-107",
+    "title": "Compare decorators with other TypeScript approaches",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 88,
+    "date": "2024-01-14T02:14:00.000Z",
+    "tags": [
+      "utility-types",
+      "intersections",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-108",
+    "title": "What are the trade-offs of using real-time?",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 80,
+    "date": "2025-04-14T08:11:00.000Z",
+    "tags": [
+      "caching",
+      "load-balancing",
+      "microservices"
+    ]
+  },
+  {
+    "id": "q-109",
+    "title": "How would you implement async-await at scale?",
+    "difficulty": "junior",
+    "topic": "JavaScript",
+    "score": 94,
+    "date": "2024-06-19T10:42:00.000Z",
+    "tags": [
+      "prototypes"
+    ]
+  },
+  {
+    "id": "q-110",
+    "title": "Compare media-queries with other CSS approaches",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 69,
+    "date": "2024-12-05T12:52:00.000Z",
+    "tags": [
+      "media-queries",
+      "responsive"
+    ]
+  },
+  {
+    "id": "q-111",
+    "title": "How would you implement utility-types at scale?",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 82,
+    "date": "2025-03-18T16:52:00.000Z",
+    "tags": [
+      "unions",
+      "enums"
+    ]
+  },
+  {
+    "id": "q-112",
+    "title": "When should you use mutations vs other approaches?",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 80,
+    "date": "2024-07-04T19:48:00.000Z",
+    "tags": [
+      "resolvers",
+      "queries"
+    ]
+  },
+  {
+    "id": "q-113",
+    "title": "When should you use async-await vs other approaches?",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 47,
+    "date": "2024-03-08T09:28:00.000Z",
+    "tags": [
+      "promises"
+    ]
+  },
+  {
+    "id": "q-114",
+    "title": "When should you use error-boundaries vs other approaches?",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 54,
+    "date": "2024-01-08T17:26:00.000Z",
+    "tags": [
+      "suspense",
+      "memo",
+      "context"
+    ]
+  },
+  {
+    "id": "q-115",
+    "title": "Compare intersections with other TypeScript approaches",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 93,
+    "date": "2024-09-17T22:17:00.000Z",
+    "tags": [
+      "utility-types",
+      "generics"
+    ]
+  },
+  {
+    "id": "q-116",
+    "title": "Build a responsive component using event-loop",
+    "difficulty": "mid",
+    "topic": "JavaScript",
+    "score": 95,
+    "date": "2024-07-15T06:58:00.000Z",
+    "tags": [
+      "promises",
+      "prototypes"
+    ]
+  },
+  {
+    "id": "q-117",
+    "title": "Compare decorators with other TypeScript approaches",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 93,
+    "date": "2025-02-24T00:18:00.000Z",
+    "tags": [
+      "intersections",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-118",
+    "title": "When should you use nginx vs other approaches?",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 69,
+    "date": "2024-09-04T11:21:00.000Z",
+    "tags": [
+      "deployment",
+      "nginx",
+      "docker"
+    ]
+  },
+  {
+    "id": "q-119",
+    "title": "How do you test integration effectively?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 42,
+    "date": "2024-07-15T07:54:00.000Z",
+    "tags": [
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-120",
+    "title": "Build a responsive component using mocking",
+    "difficulty": "senior",
+    "topic": "Testing",
+    "score": 95,
+    "date": "2024-09-10T01:08:00.000Z",
+    "tags": [
+      "mocking",
+      "cypress",
+      "vitest"
+    ]
+  },
+  {
+    "id": "q-121",
+    "title": "Explain how intersections works in TypeScript",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 44,
+    "date": "2025-01-04T04:26:00.000Z",
+    "tags": [
+      "utility-types",
+      "decorators"
+    ]
+  },
+  {
+    "id": "q-122",
+    "title": "How would you implement modules at scale?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 94,
+    "date": "2024-11-28T02:54:00.000Z",
+    "tags": [
+      "async-await",
+      "event-loop"
+    ]
+  },
+  {
+    "id": "q-123",
+    "title": "Explain how federation works in GraphQL",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 54,
+    "date": "2024-11-12T02:15:00.000Z",
+    "tags": [
+      "subscriptions",
+      "resolvers"
+    ]
+  },
+  {
+    "id": "q-124",
+    "title": "Build a responsive component using intersections",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 42,
+    "date": "2024-12-21T09:57:00.000Z",
+    "tags": [
+      "utility-types",
+      "enums"
+    ]
+  },
+  {
+    "id": "q-125",
+    "title": "What are best practices for e2e in Testing?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 76,
+    "date": "2024-08-08T04:15:00.000Z",
+    "tags": [
+      "e2e"
+    ]
+  },
+  {
+    "id": "q-126",
+    "title": "How do you test flexbox effectively?",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 71,
+    "date": "2025-03-21T12:39:00.000Z",
+    "tags": [
+      "grid"
+    ]
+  },
+  {
+    "id": "q-127",
+    "title": "Compare nginx with other DevOps approaches",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 97,
+    "date": "2024-08-23T08:42:00.000Z",
+    "tags": [
+      "docker"
+    ]
+  },
+  {
+    "id": "q-128",
+    "title": "When is promises NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 80,
+    "date": "2024-08-14T11:37:00.000Z",
+    "tags": [
+      "modules",
+      "event-loop"
+    ]
+  },
+  {
+    "id": "q-129",
+    "title": "How would you implement code-splitting at scale?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 64,
+    "date": "2025-03-12T15:06:00.000Z",
+    "tags": [
+      "lazy-loading",
+      "profiling",
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-130",
+    "title": "Compare deployment with other DevOps approaches",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 40,
+    "date": "2024-01-12T21:25:00.000Z",
+    "tags": [
+      "monitoring",
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "q-131",
+    "title": "Debug a DevOps error involving kubernetes",
+    "difficulty": "mid",
+    "topic": "DevOps",
+    "score": 79,
+    "date": "2024-11-06T11:14:00.000Z",
+    "tags": [
+      "deployment",
+      "ci-cd",
+      "nginx"
+    ]
+  },
+  {
+    "id": "q-132",
+    "title": "Explain how monitoring works in System Design",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 86,
+    "date": "2024-06-07T14:02:00.000Z",
+    "tags": [
+      "monitoring",
+      "load-balancing",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-133",
+    "title": "How would you implement animations at scale?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 73,
+    "date": "2024-03-30T06:08:00.000Z",
+    "tags": [
+      "animations"
+    ]
+  },
+  {
+    "id": "q-134",
+    "title": "Compare resolvers with other GraphQL approaches",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 69,
+    "date": "2025-01-17T10:51:00.000Z",
+    "tags": [
+      "mutations",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-135",
+    "title": "How would you implement enums at scale?",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 90,
+    "date": "2025-05-10T17:23:00.000Z",
+    "tags": [
+      "generics"
+    ]
+  },
+  {
+    "id": "q-136",
+    "title": "When is web-vitals NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "Performance",
+    "score": 77,
+    "date": "2024-08-20T11:43:00.000Z",
+    "tags": [
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-137",
+    "title": "Explain how profiling works in Performance",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 81,
+    "date": "2024-11-13T17:20:00.000Z",
+    "tags": [
+      "lazy-loading",
+      "caching",
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-138",
+    "title": "Build a responsive component using utility-types",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 47,
+    "date": "2024-01-24T01:19:00.000Z",
+    "tags": [
+      "intersections",
+      "unions",
+      "enums"
+    ]
+  },
+  {
+    "id": "q-139",
+    "title": "How would you implement generics at scale?",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 77,
+    "date": "2024-08-20T11:42:00.000Z",
+    "tags": [
+      "decorators"
+    ]
+  },
+  {
+    "id": "q-140",
+    "title": "What are the trade-offs of using variables?",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 84,
+    "date": "2024-11-11T13:17:00.000Z",
+    "tags": [
+      "responsive",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-141",
+    "title": "Debug a Testing error involving mocking",
+    "difficulty": "senior",
+    "topic": "Testing",
+    "score": 74,
+    "date": "2025-03-13T11:06:00.000Z",
+    "tags": [
+      "mocking"
+    ]
+  },
+  {
+    "id": "q-142",
+    "title": "Debug a Testing error involving e2e",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 45,
+    "date": "2025-05-10T03:54:00.000Z",
+    "tags": [
+      "mocking"
+    ]
+  },
+  {
+    "id": "q-143",
+    "title": "What are best practices for express in Node.js?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 44,
+    "date": "2024-05-04T04:50:00.000Z",
+    "tags": [
+      "cluster",
+      "events",
+      "express"
+    ]
+  },
+  {
+    "id": "q-144",
+    "title": "Debug a GraphQL error involving mutations",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 57,
+    "date": "2024-06-17T04:50:00.000Z",
+    "tags": [
+      "federation"
+    ]
+  },
+  {
+    "id": "q-145",
+    "title": "Build a responsive component using animations",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 48,
+    "date": "2024-02-26T21:55:00.000Z",
+    "tags": [
+      "modules"
+    ]
+  },
+  {
+    "id": "q-146",
+    "title": "Explain how memo works in React",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 87,
+    "date": "2024-03-30T08:03:00.000Z",
+    "tags": [
+      "suspense",
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-147",
+    "title": "What are best practices for profiling in Performance?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 72,
+    "date": "2024-09-19T18:06:00.000Z",
+    "tags": [
+      "caching",
+      "tree-shaking",
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-148",
+    "title": "Explain how file-system works in Node.js",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 67,
+    "date": "2024-02-01T15:54:00.000Z",
+    "tags": [
+      "express",
+      "events",
+      "streams"
+    ]
+  },
+  {
+    "id": "q-149",
+    "title": "When is utility-types NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 48,
+    "date": "2024-06-13T19:09:00.000Z",
+    "tags": [
+      "enums",
+      "intersections"
+    ]
+  },
+  {
+    "id": "q-150",
+    "title": "How do you test microservices effectively?",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 46,
+    "date": "2024-09-28T09:29:00.000Z",
+    "tags": [
+      "monitoring",
+      "real-time",
+      "sharding"
+    ]
+  },
+  {
+    "id": "q-151",
+    "title": "What are the trade-offs of using intersections?",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 92,
+    "date": "2025-03-30T07:26:00.000Z",
+    "tags": [
+      "enums",
+      "decorators",
+      "generics"
+    ]
+  },
+  {
+    "id": "q-152",
+    "title": "How would you implement async-await at scale?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 49,
+    "date": "2024-06-09T21:16:00.000Z",
+    "tags": [
+      "prototypes",
+      "closures"
+    ]
+  },
+  {
+    "id": "q-153",
+    "title": "When is closures NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 91,
+    "date": "2024-08-09T03:47:00.000Z",
+    "tags": [
+      "closures"
+    ]
+  },
+  {
+    "id": "q-154",
+    "title": "What are best practices for modules in CSS?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 95,
+    "date": "2024-12-09T03:26:00.000Z",
+    "tags": [
+      "flexbox",
+      "modules",
+      "responsive"
+    ]
+  },
+  {
+    "id": "q-155",
+    "title": "When is lazy-loading NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 82,
+    "date": "2024-10-22T16:13:00.000Z",
+    "tags": [
+      "caching",
+      "lazy-loading",
+      "web-vitals"
+    ]
+  },
+  {
+    "id": "q-156",
+    "title": "When should you use async-await vs other approaches?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 76,
+    "date": "2024-07-07T03:48:00.000Z",
+    "tags": [
+      "closures"
+    ]
+  },
+  {
+    "id": "q-157",
+    "title": "When should you use events vs other approaches?",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 41,
+    "date": "2024-01-14T19:59:00.000Z",
+    "tags": [
+      "events",
+      "cluster"
+    ]
+  },
+  {
+    "id": "q-158",
+    "title": "What are best practices for animations in CSS?",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 76,
+    "date": "2024-01-04T05:55:00.000Z",
+    "tags": [
+      "responsive",
+      "animations"
+    ]
+  },
+  {
+    "id": "q-159",
+    "title": "Explain how tree-shaking works in Performance",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 64,
+    "date": "2024-02-16T23:33:00.000Z",
+    "tags": [
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-160",
+    "title": "Compare lazy-loading with other Performance approaches",
+    "difficulty": "junior",
+    "topic": "Performance",
+    "score": 96,
+    "date": "2025-01-04T10:49:00.000Z",
+    "tags": [
+      "lazy-loading",
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-161",
+    "title": "When is hooks NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 71,
+    "date": "2024-05-19T14:42:00.000Z",
+    "tags": [
+      "reducers"
+    ]
+  },
+  {
+    "id": "q-162",
+    "title": "When should you use docker vs other approaches?",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 58,
+    "date": "2024-02-28T11:27:00.000Z",
+    "tags": [
+      "nginx",
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "q-163",
+    "title": "Debug a DevOps error involving ci-cd",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 53,
+    "date": "2024-07-21T19:03:00.000Z",
+    "tags": [
+      "monitoring",
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "q-164",
+    "title": "Compare sharding with other System Design approaches",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 87,
+    "date": "2024-06-16T03:00:00.000Z",
+    "tags": [
+      "load-balancing"
+    ]
+  },
+  {
+    "id": "q-165",
+    "title": "When should you use profiling vs other approaches?",
+    "difficulty": "senior",
+    "topic": "Performance",
+    "score": 44,
+    "date": "2024-12-26T07:32:00.000Z",
+    "tags": [
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-166",
+    "title": "When is profiling NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 76,
+    "date": "2025-03-17T10:36:00.000Z",
+    "tags": [
+      "caching",
+      "profiling",
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-167",
+    "title": "How would you implement caching at scale?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 93,
+    "date": "2024-01-11T10:10:00.000Z",
+    "tags": [
+      "tree-shaking",
+      "profiling",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-168",
+    "title": "When is vitest NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 73,
+    "date": "2024-05-04T13:37:00.000Z",
+    "tags": [
+      "mocking"
+    ]
+  },
+  {
+    "id": "q-169",
+    "title": "What are best practices for generics in TypeScript?",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 73,
+    "date": "2025-02-02T05:04:00.000Z",
+    "tags": [
+      "unions",
+      "enums"
+    ]
+  },
+  {
+    "id": "q-170",
+    "title": "Build a responsive component using subscriptions",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 52,
+    "date": "2024-04-30T03:09:00.000Z",
+    "tags": [
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-171",
+    "title": "What are the trade-offs of using grid?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 83,
+    "date": "2024-08-25T18:48:00.000Z",
+    "tags": [
+      "grid",
+      "responsive",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-172",
+    "title": "What are best practices for deployment in DevOps?",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 68,
+    "date": "2024-03-18T14:04:00.000Z",
+    "tags": [
+      "deployment",
+      "monitoring",
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "q-173",
+    "title": "When should you use sharding vs other approaches?",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 42,
+    "date": "2024-02-07T09:29:00.000Z",
+    "tags": [
+      "real-time",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-174",
+    "title": "How do you test context effectively?",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 77,
+    "date": "2024-10-31T16:24:00.000Z",
+    "tags": [
+      "error-boundaries",
+      "hooks"
+    ]
+  },
+  {
+    "id": "q-175",
+    "title": "How do you test subscriptions effectively?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 68,
+    "date": "2024-08-31T16:09:00.000Z",
+    "tags": [
+      "queries",
+      "resolvers",
+      "mutations"
+    ]
+  },
+  {
+    "id": "q-176",
+    "title": "Build a responsive component using decorators",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 68,
+    "date": "2024-01-21T07:45:00.000Z",
+    "tags": [
+      "enums",
+      "utility-types"
+    ]
+  },
+  {
+    "id": "q-177",
+    "title": "Compare subscriptions with other GraphQL approaches",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 83,
+    "date": "2024-07-17T13:49:00.000Z",
+    "tags": [
+      "federation",
+      "mutations",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-178",
+    "title": "What are best practices for deployment in DevOps?",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 58,
+    "date": "2024-02-03T10:06:00.000Z",
+    "tags": [
+      "deployment"
+    ]
+  },
+  {
+    "id": "q-179",
+    "title": "When is sharding NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 59,
+    "date": "2024-10-25T21:09:00.000Z",
+    "tags": [
+      "monitoring",
+      "real-time",
+      "load-balancing"
+    ]
+  },
+  {
+    "id": "q-180",
+    "title": "When is tree-shaking NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "Performance",
+    "score": 92,
+    "date": "2024-06-07T17:24:00.000Z",
+    "tags": [
+      "web-vitals"
+    ]
+  },
+  {
+    "id": "q-181",
+    "title": "How would you implement flexbox at scale?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 59,
+    "date": "2024-09-17T11:01:00.000Z",
+    "tags": [
+      "responsive",
+      "variables",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-182",
+    "title": "What are the trade-offs of using variables?",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 44,
+    "date": "2024-04-08T07:08:00.000Z",
+    "tags": [
+      "animations"
+    ]
+  },
+  {
+    "id": "q-183",
+    "title": "When should you use real-time vs other approaches?",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 78,
+    "date": "2024-01-20T21:21:00.000Z",
+    "tags": [
+      "real-time"
+    ]
+  },
+  {
+    "id": "q-184",
+    "title": "How do you test code-splitting effectively?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 42,
+    "date": "2025-02-18T05:46:00.000Z",
+    "tags": [
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-185",
+    "title": "How do you test profiling effectively?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 54,
+    "date": "2024-05-25T23:50:00.000Z",
+    "tags": [
+      "tree-shaking",
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-186",
+    "title": "Debug a GraphQL error involving resolvers",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 69,
+    "date": "2024-07-07T21:36:00.000Z",
+    "tags": [
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-187",
+    "title": "Build a responsive component using microservices",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 95,
+    "date": "2025-02-22T06:51:00.000Z",
+    "tags": [
+      "real-time",
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-188",
+    "title": "What are best practices for microservices in System Design?",
+    "difficulty": "junior",
+    "topic": "System Design",
+    "score": 58,
+    "date": "2024-10-10T03:45:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-189",
+    "title": "When should you use intersections vs other approaches?",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 92,
+    "date": "2024-03-16T13:05:00.000Z",
+    "tags": [
+      "unions"
+    ]
+  },
+  {
+    "id": "q-190",
+    "title": "How would you implement closures at scale?",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 45,
+    "date": "2024-09-14T11:15:00.000Z",
+    "tags": [
+      "closures",
+      "prototypes"
+    ]
+  },
+  {
+    "id": "q-191",
+    "title": "When is e2e NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "Testing",
+    "score": 90,
+    "date": "2025-03-05T22:41:00.000Z",
+    "tags": [
+      "unit"
+    ]
+  },
+  {
+    "id": "q-192",
+    "title": "What are the trade-offs of using animations?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 68,
+    "date": "2024-12-22T04:48:00.000Z",
+    "tags": [
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-193",
+    "title": "Compare ci-cd with other DevOps approaches",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 47,
+    "date": "2024-04-20T04:35:00.000Z",
+    "tags": [
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-194",
+    "title": "Explain how caching works in System Design",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 44,
+    "date": "2024-05-02T13:40:00.000Z",
+    "tags": [
+      "sharding"
+    ]
+  },
+  {
+    "id": "q-195",
+    "title": "When should you use utility-types vs other approaches?",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 58,
+    "date": "2024-10-21T07:45:00.000Z",
+    "tags": [
+      "decorators",
+      "enums"
+    ]
+  },
+  {
+    "id": "q-196",
+    "title": "Debug a Performance error involving lazy-loading",
+    "difficulty": "junior",
+    "topic": "Performance",
+    "score": 73,
+    "date": "2024-10-19T13:11:00.000Z",
+    "tags": [
+      "web-vitals"
+    ]
+  },
+  {
+    "id": "q-197",
+    "title": "When should you use tdd vs other approaches?",
+    "difficulty": "junior",
+    "topic": "Testing",
+    "score": 64,
+    "date": "2025-02-06T16:35:00.000Z",
+    "tags": [
+      "tdd"
+    ]
+  },
+  {
+    "id": "q-198",
+    "title": "What are best practices for prototypes in JavaScript?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 90,
+    "date": "2024-05-09T23:01:00.000Z",
+    "tags": [
+      "modules"
+    ]
+  },
+  {
+    "id": "q-199",
+    "title": "What are best practices for decorators in TypeScript?",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 92,
+    "date": "2024-03-09T01:22:00.000Z",
+    "tags": [
+      "generics",
+      "utility-types"
+    ]
+  },
+  {
+    "id": "q-200",
+    "title": "Build a responsive component using responsive",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 42,
+    "date": "2025-02-19T04:04:00.000Z",
+    "tags": [
+      "media-queries",
+      "responsive",
+      "variables"
+    ]
+  },
+  {
+    "id": "q-201",
+    "title": "Explain how load-balancing works in System Design",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 92,
+    "date": "2024-06-10T09:32:00.000Z",
+    "tags": [
+      "caching"
+    ]
+  },
+  {
+    "id": "q-202",
+    "title": "Debug a GraphQL error involving caching",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 95,
+    "date": "2024-05-26T11:55:00.000Z",
+    "tags": [
+      "subscriptions",
+      "queries"
+    ]
+  },
+  {
+    "id": "q-203",
+    "title": "How would you implement mocking at scale?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 61,
+    "date": "2025-01-15T14:57:00.000Z",
+    "tags": [
+      "unit",
+      "e2e"
+    ]
+  },
+  {
+    "id": "q-204",
+    "title": "When should you use animations vs other approaches?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 45,
+    "date": "2024-05-16T02:46:00.000Z",
+    "tags": [
+      "responsive",
+      "media-queries"
+    ]
+  },
+  {
+    "id": "q-205",
+    "title": "When is lazy-loading NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "Performance",
+    "score": 59,
+    "date": "2024-02-10T10:42:00.000Z",
+    "tags": [
+      "code-splitting",
+      "web-vitals",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-206",
+    "title": "What are the trade-offs of using modules?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 79,
+    "date": "2024-06-28T14:02:00.000Z",
+    "tags": [
+      "modules",
+      "prototypes",
+      "promises"
+    ]
+  },
+  {
+    "id": "q-207",
+    "title": "How would you implement caching at scale?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 41,
+    "date": "2024-07-05T16:51:00.000Z",
+    "tags": [
+      "tree-shaking",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-208",
+    "title": "When is grid NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 64,
+    "date": "2024-04-30T20:23:00.000Z",
+    "tags": [
+      "responsive",
+      "media-queries",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-209",
+    "title": "What are the trade-offs of using docker?",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 88,
+    "date": "2025-04-30T11:23:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-210",
+    "title": "What are best practices for intersections in TypeScript?",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 41,
+    "date": "2024-11-28T08:15:00.000Z",
+    "tags": [
+      "generics",
+      "decorators",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-211",
+    "title": "When is modules NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 53,
+    "date": "2024-05-14T08:45:00.000Z",
+    "tags": [
+      "modules",
+      "media-queries"
+    ]
+  },
+  {
+    "id": "q-212",
+    "title": "When is docker NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "DevOps",
+    "score": 97,
+    "date": "2024-03-10T02:28:00.000Z",
+    "tags": [
+      "deployment",
+      "nginx"
+    ]
+  },
+  {
+    "id": "q-213",
+    "title": "What are best practices for async-await in JavaScript?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 97,
+    "date": "2024-12-29T02:35:00.000Z",
+    "tags": [
+      "modules"
+    ]
+  },
+  {
+    "id": "q-214",
+    "title": "Build a responsive component using monitoring",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 47,
+    "date": "2025-02-10T11:32:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-215",
+    "title": "Explain how file-system works in Node.js",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 69,
+    "date": "2024-07-03T17:36:00.000Z",
+    "tags": [
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-216",
+    "title": "When is queries NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 73,
+    "date": "2024-06-07T12:45:00.000Z",
+    "tags": [
+      "federation"
+    ]
+  },
+  {
+    "id": "q-217",
+    "title": "What are best practices for code-splitting in Performance?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 83,
+    "date": "2024-11-24T02:28:00.000Z",
+    "tags": [
+      "web-vitals",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-218",
+    "title": "How do you test caching effectively?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 93,
+    "date": "2024-04-03T04:27:00.000Z",
+    "tags": [
+      "mutations",
+      "federation"
+    ]
+  },
+  {
+    "id": "q-219",
+    "title": "What are best practices for generics in TypeScript?",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 73,
+    "date": "2025-04-23T22:14:00.000Z",
+    "tags": [
+      "generics",
+      "unions",
+      "enums"
+    ]
+  },
+  {
+    "id": "q-220",
+    "title": "When should you use load-balancing vs other approaches?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 79,
+    "date": "2024-05-20T04:40:00.000Z",
+    "tags": [
+      "sharding"
+    ]
+  },
+  {
+    "id": "q-221",
+    "title": "Build a responsive component using caching",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 82,
+    "date": "2024-10-30T18:09:00.000Z",
+    "tags": [
+      "federation"
+    ]
+  },
+  {
+    "id": "q-222",
+    "title": "When is ci-cd NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 81,
+    "date": "2024-01-24T20:49:00.000Z",
+    "tags": [
+      "monitoring",
+      "kubernetes",
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-223",
+    "title": "When should you use file-system vs other approaches?",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 55,
+    "date": "2024-05-28T20:19:00.000Z",
+    "tags": [
+      "file-system",
+      "events",
+      "express"
+    ]
+  },
+  {
+    "id": "q-224",
+    "title": "Explain how tree-shaking works in Performance",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 69,
+    "date": "2024-03-21T14:26:00.000Z",
+    "tags": [
+      "profiling",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-225",
+    "title": "What are best practices for streams in Node.js?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 88,
+    "date": "2025-01-10T11:25:00.000Z",
+    "tags": [
+      "events",
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-226",
+    "title": "What are the trade-offs of using integration?",
+    "difficulty": "mid",
+    "topic": "Testing",
+    "score": 49,
+    "date": "2024-03-03T08:28:00.000Z",
+    "tags": [
+      "tdd",
+      "unit",
+      "e2e"
+    ]
+  },
+  {
+    "id": "q-227",
+    "title": "How do you test intersections effectively?",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 92,
+    "date": "2024-08-02T07:55:00.000Z",
+    "tags": [
+      "unions"
+    ]
+  },
+  {
+    "id": "q-228",
+    "title": "Build a responsive component using vitest",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 96,
+    "date": "2024-09-12T16:29:00.000Z",
+    "tags": [
+      "cypress",
+      "e2e",
+      "integration"
+    ]
+  },
+  {
+    "id": "q-229",
+    "title": "When should you use microservices vs other approaches?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 43,
+    "date": "2024-08-22T07:13:00.000Z",
+    "tags": [
+      "caching",
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-230",
+    "title": "Compare portals with other React approaches",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 67,
+    "date": "2024-10-01T00:54:00.000Z",
+    "tags": [
+      "portals",
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-231",
+    "title": "How would you implement variables at scale?",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 76,
+    "date": "2024-07-06T01:25:00.000Z",
+    "tags": [
+      "responsive",
+      "animations"
+    ]
+  },
+  {
+    "id": "q-232",
+    "title": "Compare federation with other GraphQL approaches",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 88,
+    "date": "2024-02-07T12:32:00.000Z",
+    "tags": [
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-233",
+    "title": "Build a responsive component using queries",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 90,
+    "date": "2025-05-14T03:25:00.000Z",
+    "tags": [
+      "federation",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-234",
+    "title": "When should you use tdd vs other approaches?",
+    "difficulty": "junior",
+    "topic": "Testing",
+    "score": 42,
+    "date": "2024-07-24T16:02:00.000Z",
+    "tags": [
+      "e2e",
+      "integration",
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-235",
+    "title": "Build a responsive component using media-queries",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 99,
+    "date": "2024-11-06T16:08:00.000Z",
+    "tags": [
+      "animations",
+      "media-queries",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-236",
+    "title": "Compare monitoring with other DevOps approaches",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 85,
+    "date": "2024-10-30T10:32:00.000Z",
+    "tags": [
+      "docker",
+      "nginx"
+    ]
+  },
+  {
+    "id": "q-237",
+    "title": "What are best practices for kubernetes in DevOps?",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 90,
+    "date": "2024-12-10T03:26:00.000Z",
+    "tags": [
+      "nginx",
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-238",
+    "title": "Explain how suspense works in React",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 49,
+    "date": "2024-10-25T15:10:00.000Z",
+    "tags": [
+      "portals",
+      "reducers",
+      "memo"
+    ]
+  },
+  {
+    "id": "q-239",
+    "title": "When is cluster NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 66,
+    "date": "2024-04-07T00:28:00.000Z",
+    "tags": [
+      "events"
+    ]
+  },
+  {
+    "id": "q-240",
+    "title": "When should you use media-queries vs other approaches?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 95,
+    "date": "2025-01-31T19:58:00.000Z",
+    "tags": [
+      "responsive",
+      "grid"
+    ]
+  },
+  {
+    "id": "q-241",
+    "title": "What are the trade-offs of using memo?",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 69,
+    "date": "2024-09-26T12:20:00.000Z",
+    "tags": [
+      "reducers",
+      "error-boundaries",
+      "context"
+    ]
+  },
+  {
+    "id": "q-242",
+    "title": "Compare caching with other GraphQL approaches",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 57,
+    "date": "2024-11-08T15:12:00.000Z",
+    "tags": [
+      "federation",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-243",
+    "title": "Debug a GraphQL error involving subscriptions",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 70,
+    "date": "2024-12-19T22:31:00.000Z",
+    "tags": [
+      "mutations",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-244",
+    "title": "When is e2e NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 97,
+    "date": "2024-10-20T21:34:00.000Z",
+    "tags": [
+      "vitest",
+      "cypress",
+      "e2e"
+    ]
+  },
+  {
+    "id": "q-245",
+    "title": "Compare caching with other Performance approaches",
+    "difficulty": "senior",
+    "topic": "Performance",
+    "score": 99,
+    "date": "2025-05-04T22:05:00.000Z",
+    "tags": [
+      "code-splitting",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-246",
+    "title": "When should you use promises vs other approaches?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 48,
+    "date": "2024-05-18T17:44:00.000Z",
+    "tags": [
+      "async-await",
+      "prototypes",
+      "promises"
+    ]
+  },
+  {
+    "id": "q-247",
+    "title": "Explain how generics works in TypeScript",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 43,
+    "date": "2024-12-08T16:14:00.000Z",
+    "tags": [
+      "enums",
+      "decorators",
+      "generics"
+    ]
+  },
+  {
+    "id": "q-248",
+    "title": "Build a responsive component using utility-types",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 66,
+    "date": "2024-01-03T17:59:00.000Z",
+    "tags": [
+      "unions",
+      "intersections"
+    ]
+  },
+  {
+    "id": "q-249",
+    "title": "What are best practices for async-await in JavaScript?",
+    "difficulty": "junior",
+    "topic": "JavaScript",
+    "score": 81,
+    "date": "2024-05-26T20:03:00.000Z",
+    "tags": [
+      "modules",
+      "promises"
+    ]
+  },
+  {
+    "id": "q-250",
+    "title": "Explain how deployment works in DevOps",
+    "difficulty": "mid",
+    "topic": "DevOps",
+    "score": 99,
+    "date": "2025-04-12T05:26:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-251",
+    "title": "Explain how error-boundaries works in React",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 99,
+    "date": "2024-01-05T09:36:00.000Z",
+    "tags": [
+      "portals",
+      "context"
+    ]
+  },
+  {
+    "id": "q-252",
+    "title": "When should you use tdd vs other approaches?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 57,
+    "date": "2024-09-09T04:54:00.000Z",
+    "tags": [
+      "mocking",
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-253",
+    "title": "What are the trade-offs of using middleware?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 40,
+    "date": "2024-11-27T08:45:00.000Z",
+    "tags": [
+      "streams"
+    ]
+  },
+  {
+    "id": "q-254",
+    "title": "Debug a Testing error involving vitest",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 92,
+    "date": "2024-03-30T19:54:00.000Z",
+    "tags": [
+      "tdd",
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-255",
+    "title": "When is tree-shaking NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "Performance",
+    "score": 99,
+    "date": "2024-04-04T04:30:00.000Z",
+    "tags": [
+      "lazy-loading",
+      "caching",
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-256",
+    "title": "Debug a Node.js error involving file-system",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 77,
+    "date": "2024-08-16T08:21:00.000Z",
+    "tags": [
+      "streams"
+    ]
+  },
+  {
+    "id": "q-257",
+    "title": "What are best practices for deployment in DevOps?",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 69,
+    "date": "2024-12-20T07:03:00.000Z",
+    "tags": [
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "q-258",
+    "title": "When should you use monitoring vs other approaches?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 84,
+    "date": "2025-04-17T22:49:00.000Z",
+    "tags": [
+      "microservices"
+    ]
+  },
+  {
+    "id": "q-259",
+    "title": "Build a responsive component using generics",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 66,
+    "date": "2024-09-01T04:29:00.000Z",
+    "tags": [
+      "unions",
+      "enums",
+      "generics"
+    ]
+  },
+  {
+    "id": "q-260",
+    "title": "How do you test mutations effectively?",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 73,
+    "date": "2025-03-23T02:33:00.000Z",
+    "tags": [
+      "federation",
+      "mutations"
+    ]
+  },
+  {
+    "id": "q-261",
+    "title": "Explain how unit works in Testing",
+    "difficulty": "mid",
+    "topic": "Testing",
+    "score": 76,
+    "date": "2025-02-28T17:57:00.000Z",
+    "tags": [
+      "tdd"
+    ]
+  },
+  {
+    "id": "q-262",
+    "title": "When should you use subscriptions vs other approaches?",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 85,
+    "date": "2024-08-14T03:43:00.000Z",
+    "tags": [
+      "mutations"
+    ]
+  },
+  {
+    "id": "q-263",
+    "title": "Explain how nginx works in DevOps",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 69,
+    "date": "2024-08-20T04:32:00.000Z",
+    "tags": [
+      "ci-cd",
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-264",
+    "title": "Compare nginx with other DevOps approaches",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 92,
+    "date": "2025-01-05T00:25:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-265",
+    "title": "How would you implement hooks at scale?",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 99,
+    "date": "2024-06-25T22:04:00.000Z",
+    "tags": [
+      "suspense",
+      "error-boundaries",
+      "hooks"
+    ]
+  },
+  {
+    "id": "q-266",
+    "title": "Build a responsive component using intersections",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 63,
+    "date": "2025-01-28T04:49:00.000Z",
+    "tags": [
+      "utility-types",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-267",
+    "title": "When should you use caching vs other approaches?",
+    "difficulty": "senior",
+    "topic": "Performance",
+    "score": 47,
+    "date": "2024-03-09T20:55:00.000Z",
+    "tags": [
+      "profiling",
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-268",
+    "title": "Debug a CSS error involving responsive",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 59,
+    "date": "2025-03-03T00:48:00.000Z",
+    "tags": [
+      "media-queries",
+      "modules",
+      "grid"
+    ]
+  },
+  {
+    "id": "q-269",
+    "title": "How would you implement event-loop at scale?",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 62,
+    "date": "2025-02-25T07:15:00.000Z",
+    "tags": [
+      "modules",
+      "event-loop",
+      "prototypes"
+    ]
+  },
+  {
+    "id": "q-270",
+    "title": "When is variables NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 55,
+    "date": "2024-01-17T21:26:00.000Z",
+    "tags": [
+      "grid",
+      "responsive"
+    ]
+  },
+  {
+    "id": "q-271",
+    "title": "Explain how events works in Node.js",
+    "difficulty": "junior",
+    "topic": "Node.js",
+    "score": 55,
+    "date": "2024-08-16T19:43:00.000Z",
+    "tags": [
+      "express"
+    ]
+  },
+  {
+    "id": "q-272",
+    "title": "Explain how suspense works in React",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 92,
+    "date": "2024-03-12T16:18:00.000Z",
+    "tags": [
+      "portals",
+      "context"
+    ]
+  },
+  {
+    "id": "q-273",
+    "title": "What are best practices for deployment in DevOps?",
+    "difficulty": "mid",
+    "topic": "DevOps",
+    "score": 82,
+    "date": "2024-05-01T09:56:00.000Z",
+    "tags": [
+      "monitoring",
+      "deployment"
+    ]
+  },
+  {
+    "id": "q-274",
+    "title": "Compare subscriptions with other GraphQL approaches",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 80,
+    "date": "2024-02-01T17:37:00.000Z",
+    "tags": [
+      "resolvers"
+    ]
+  },
+  {
+    "id": "q-275",
+    "title": "How would you implement tree-shaking at scale?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 66,
+    "date": "2025-02-06T16:20:00.000Z",
+    "tags": [
+      "profiling",
+      "caching",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-276",
+    "title": "When should you use variables vs other approaches?",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 59,
+    "date": "2024-08-30T07:54:00.000Z",
+    "tags": [
+      "media-queries",
+      "grid"
+    ]
+  },
+  {
+    "id": "q-277",
+    "title": "How would you implement media-queries at scale?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 55,
+    "date": "2024-10-12T16:08:00.000Z",
+    "tags": [
+      "flexbox",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-278",
+    "title": "When is monitoring NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 45,
+    "date": "2025-04-17T14:54:00.000Z",
+    "tags": [
+      "sharding"
+    ]
+  },
+  {
+    "id": "q-279",
+    "title": "How do you test resolvers effectively?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 52,
+    "date": "2024-11-04T01:55:00.000Z",
+    "tags": [
+      "mutations",
+      "queries",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-280",
+    "title": "Debug a DevOps error involving nginx",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 53,
+    "date": "2025-03-21T10:19:00.000Z",
+    "tags": [
+      "deployment",
+      "monitoring",
+      "docker"
+    ]
+  },
+  {
+    "id": "q-281",
+    "title": "How do you test cluster effectively?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 75,
+    "date": "2024-12-26T06:25:00.000Z",
+    "tags": [
+      "express",
+      "file-system",
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-282",
+    "title": "What are best practices for tdd in Testing?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 69,
+    "date": "2024-06-06T08:23:00.000Z",
+    "tags": [
+      "mocking",
+      "vitest"
+    ]
+  },
+  {
+    "id": "q-283",
+    "title": "What are best practices for unions in TypeScript?",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 87,
+    "date": "2024-07-30T01:36:00.000Z",
+    "tags": [
+      "intersections",
+      "unions",
+      "generics"
+    ]
+  },
+  {
+    "id": "q-284",
+    "title": "How do you test modules effectively?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 49,
+    "date": "2024-10-23T23:26:00.000Z",
+    "tags": [
+      "animations"
+    ]
+  },
+  {
+    "id": "q-285",
+    "title": "Debug a Node.js error involving events",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 56,
+    "date": "2024-09-12T17:41:00.000Z",
+    "tags": [
+      "middleware",
+      "file-system"
+    ]
+  },
+  {
+    "id": "q-286",
+    "title": "What are best practices for promises in JavaScript?",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 51,
+    "date": "2024-03-27T04:46:00.000Z",
+    "tags": [
+      "modules",
+      "prototypes",
+      "event-loop"
+    ]
+  },
+  {
+    "id": "q-287",
+    "title": "Explain how queries works in GraphQL",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 93,
+    "date": "2025-01-26T00:26:00.000Z",
+    "tags": [
+      "queries",
+      "federation",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-288",
+    "title": "Explain how middleware works in Node.js",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 43,
+    "date": "2024-04-21T16:29:00.000Z",
+    "tags": [
+      "cluster"
+    ]
+  },
+  {
+    "id": "q-289",
+    "title": "What are the trade-offs of using deployment?",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 40,
+    "date": "2024-01-09T00:34:00.000Z",
+    "tags": [
+      "deployment",
+      "monitoring",
+      "nginx"
+    ]
+  },
+  {
+    "id": "q-290",
+    "title": "When should you use hooks vs other approaches?",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 91,
+    "date": "2025-02-20T22:43:00.000Z",
+    "tags": [
+      "error-boundaries",
+      "portals",
+      "reducers"
+    ]
+  },
+  {
+    "id": "q-291",
+    "title": "Build a responsive component using modules",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 92,
+    "date": "2024-05-03T06:39:00.000Z",
+    "tags": [
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-292",
+    "title": "What are best practices for unit in Testing?",
+    "difficulty": "mid",
+    "topic": "Testing",
+    "score": 84,
+    "date": "2025-05-06T12:29:00.000Z",
+    "tags": [
+      "vitest",
+      "mocking"
+    ]
+  },
+  {
+    "id": "q-293",
+    "title": "Explain how cluster works in Node.js",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 75,
+    "date": "2024-02-17T12:24:00.000Z",
+    "tags": [
+      "cluster",
+      "express"
+    ]
+  },
+  {
+    "id": "q-294",
+    "title": "Build a responsive component using closures",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 81,
+    "date": "2024-02-12T15:54:00.000Z",
+    "tags": [
+      "modules"
+    ]
+  },
+  {
+    "id": "q-295",
+    "title": "Debug a Testing error involving unit",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 57,
+    "date": "2024-04-18T22:56:00.000Z",
+    "tags": [
+      "vitest",
+      "unit",
+      "tdd"
+    ]
+  },
+  {
+    "id": "q-296",
+    "title": "Build a responsive component using hooks",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 77,
+    "date": "2025-04-20T10:01:00.000Z",
+    "tags": [
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-297",
+    "title": "Build a responsive component using animations",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 83,
+    "date": "2024-10-15T07:36:00.000Z",
+    "tags": [
+      "variables",
+      "media-queries",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-298",
+    "title": "When is caching NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 46,
+    "date": "2024-09-13T23:22:00.000Z",
+    "tags": [
+      "resolvers",
+      "mutations"
+    ]
+  },
+  {
+    "id": "q-299",
+    "title": "How do you test lazy-loading effectively?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 89,
+    "date": "2025-01-28T19:38:00.000Z",
+    "tags": [
+      "caching"
+    ]
+  },
+  {
+    "id": "q-300",
+    "title": "What are the trade-offs of using e2e?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 67,
+    "date": "2024-09-08T07:22:00.000Z",
+    "tags": [
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-301",
+    "title": "How do you test flexbox effectively?",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 45,
+    "date": "2024-05-31T07:45:00.000Z",
+    "tags": [
+      "modules",
+      "responsive",
+      "media-queries"
+    ]
+  },
+  {
+    "id": "q-302",
+    "title": "Build a responsive component using monitoring",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 46,
+    "date": "2025-01-13T12:20:00.000Z",
+    "tags": [
+      "microservices"
+    ]
+  },
+  {
+    "id": "q-303",
+    "title": "What are best practices for intersections in TypeScript?",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 45,
+    "date": "2025-01-24T08:06:00.000Z",
+    "tags": [
+      "unions"
+    ]
+  },
+  {
+    "id": "q-304",
+    "title": "When should you use modules vs other approaches?",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 62,
+    "date": "2024-07-27T03:01:00.000Z",
+    "tags": [
+      "media-queries",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-305",
+    "title": "What are best practices for federation in GraphQL?",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 66,
+    "date": "2025-03-18T12:00:00.000Z",
+    "tags": [
+      "federation"
+    ]
+  },
+  {
+    "id": "q-306",
+    "title": "Debug a Performance error involving web-vitals",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 50,
+    "date": "2024-10-19T16:10:00.000Z",
+    "tags": [
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-307",
+    "title": "Build a responsive component using media-queries",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 66,
+    "date": "2024-02-02T05:27:00.000Z",
+    "tags": [
+      "animations",
+      "variables"
+    ]
+  },
+  {
+    "id": "q-308",
+    "title": "Debug a System Design error involving sharding",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 69,
+    "date": "2025-01-04T20:31:00.000Z",
+    "tags": [
+      "caching",
+      "sharding"
+    ]
+  },
+  {
+    "id": "q-309",
+    "title": "How would you implement utility-types at scale?",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 68,
+    "date": "2024-06-19T19:24:00.000Z",
+    "tags": [
+      "unions"
+    ]
+  },
+  {
+    "id": "q-310",
+    "title": "Build a responsive component using tdd",
+    "difficulty": "mid",
+    "topic": "Testing",
+    "score": 70,
+    "date": "2024-06-02T10:38:00.000Z",
+    "tags": [
+      "vitest",
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-311",
+    "title": "Compare e2e with other Testing approaches",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 76,
+    "date": "2025-01-11T22:40:00.000Z",
+    "tags": [
+      "mocking"
+    ]
+  },
+  {
+    "id": "q-312",
+    "title": "What are best practices for file-system in Node.js?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 83,
+    "date": "2024-02-28T18:12:00.000Z",
+    "tags": [
+      "file-system",
+      "streams"
+    ]
+  },
+  {
+    "id": "q-313",
+    "title": "Debug a GraphQL error involving resolvers",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 92,
+    "date": "2024-08-12T09:53:00.000Z",
+    "tags": [
+      "caching"
+    ]
+  },
+  {
+    "id": "q-314",
+    "title": "Compare code-splitting with other Performance approaches",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 90,
+    "date": "2024-12-03T04:45:00.000Z",
+    "tags": [
+      "profiling",
+      "code-splitting",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-315",
+    "title": "What are the trade-offs of using web-vitals?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 74,
+    "date": "2024-10-25T12:34:00.000Z",
+    "tags": [
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-316",
+    "title": "What are best practices for suspense in React?",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 76,
+    "date": "2024-03-26T20:39:00.000Z",
+    "tags": [
+      "context",
+      "hooks"
+    ]
+  },
+  {
+    "id": "q-317",
+    "title": "When is caching NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 68,
+    "date": "2024-05-12T07:32:00.000Z",
+    "tags": [
+      "profiling",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-318",
+    "title": "When should you use tdd vs other approaches?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 46,
+    "date": "2024-03-18T11:01:00.000Z",
+    "tags": [
+      "mocking",
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-319",
+    "title": "Build a responsive component using monitoring",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 90,
+    "date": "2024-06-27T09:21:00.000Z",
+    "tags": [
+      "caching",
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-320",
+    "title": "What are the trade-offs of using express?",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 44,
+    "date": "2025-01-04T22:28:00.000Z",
+    "tags": [
+      "file-system",
+      "streams",
+      "cluster"
+    ]
+  },
+  {
+    "id": "q-321",
+    "title": "Explain how caching works in System Design",
+    "difficulty": "junior",
+    "topic": "System Design",
+    "score": 83,
+    "date": "2025-03-10T10:41:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-322",
+    "title": "Build a responsive component using modules",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 54,
+    "date": "2024-06-18T17:27:00.000Z",
+    "tags": [
+      "grid",
+      "modules",
+      "variables"
+    ]
+  },
+  {
+    "id": "q-323",
+    "title": "Explain how profiling works in Performance",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 68,
+    "date": "2025-01-12T19:56:00.000Z",
+    "tags": [
+      "code-splitting",
+      "tree-shaking",
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-324",
+    "title": "Debug a DevOps error involving deployment",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 76,
+    "date": "2024-04-15T08:48:00.000Z",
+    "tags": [
+      "nginx",
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-325",
+    "title": "What are the trade-offs of using generics?",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 73,
+    "date": "2024-02-28T08:42:00.000Z",
+    "tags": [
+      "generics",
+      "unions",
+      "decorators"
+    ]
+  },
+  {
+    "id": "q-326",
+    "title": "When is tdd NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 79,
+    "date": "2024-06-27T11:54:00.000Z",
+    "tags": [
+      "mocking",
+      "tdd",
+      "vitest"
+    ]
+  },
+  {
+    "id": "q-327",
+    "title": "When is modules NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 55,
+    "date": "2024-12-10T04:20:00.000Z",
+    "tags": [
+      "responsive",
+      "animations",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-328",
+    "title": "Build a responsive component using sharding",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 76,
+    "date": "2024-09-18T12:26:00.000Z",
+    "tags": [
+      "load-balancing"
+    ]
+  },
+  {
+    "id": "q-329",
+    "title": "When should you use tree-shaking vs other approaches?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 75,
+    "date": "2024-12-21T20:59:00.000Z",
+    "tags": [
+      "code-splitting",
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-330",
+    "title": "What are best practices for grid in CSS?",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 95,
+    "date": "2025-03-07T14:39:00.000Z",
+    "tags": [
+      "animations",
+      "grid"
+    ]
+  },
+  {
+    "id": "q-331",
+    "title": "Debug a Testing error involving integration",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 66,
+    "date": "2025-02-21T12:35:00.000Z",
+    "tags": [
+      "mocking"
+    ]
+  },
+  {
+    "id": "q-332",
+    "title": "Build a responsive component using prototypes",
+    "difficulty": "mid",
+    "topic": "JavaScript",
+    "score": 58,
+    "date": "2024-02-12T18:01:00.000Z",
+    "tags": [
+      "modules",
+      "prototypes"
+    ]
+  },
+  {
+    "id": "q-333",
+    "title": "Build a responsive component using error-boundaries",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 75,
+    "date": "2025-02-03T14:36:00.000Z",
+    "tags": [
+      "suspense",
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-334",
+    "title": "Compare queries with other GraphQL approaches",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 74,
+    "date": "2025-01-31T17:52:00.000Z",
+    "tags": [
+      "federation"
+    ]
+  },
+  {
+    "id": "q-335",
+    "title": "When is refs NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 59,
+    "date": "2025-01-11T20:48:00.000Z",
+    "tags": [
+      "portals",
+      "error-boundaries",
+      "context"
+    ]
+  },
+  {
+    "id": "q-336",
+    "title": "What are the trade-offs of using context?",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 53,
+    "date": "2025-03-19T03:49:00.000Z",
+    "tags": [
+      "error-boundaries",
+      "reducers"
+    ]
+  },
+  {
+    "id": "q-337",
+    "title": "How do you test docker effectively?",
+    "difficulty": "mid",
+    "topic": "DevOps",
+    "score": 91,
+    "date": "2024-03-12T06:52:00.000Z",
+    "tags": [
+      "kubernetes",
+      "monitoring",
+      "nginx"
+    ]
+  },
+  {
+    "id": "q-338",
+    "title": "What are best practices for reducers in React?",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 94,
+    "date": "2024-12-26T09:18:00.000Z",
+    "tags": [
+      "memo",
+      "error-boundaries",
+      "reducers"
+    ]
+  },
+  {
+    "id": "q-339",
+    "title": "Compare queries with other GraphQL approaches",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 55,
+    "date": "2025-03-19T20:08:00.000Z",
+    "tags": [
+      "queries",
+      "mutations",
+      "resolvers"
+    ]
+  },
+  {
+    "id": "q-340",
+    "title": "Build a responsive component using media-queries",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 64,
+    "date": "2024-10-22T20:17:00.000Z",
+    "tags": [
+      "animations",
+      "grid",
+      "media-queries"
+    ]
+  },
+  {
+    "id": "q-341",
+    "title": "How would you implement closures at scale?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 69,
+    "date": "2024-09-20T23:17:00.000Z",
+    "tags": [
+      "modules"
+    ]
+  },
+  {
+    "id": "q-342",
+    "title": "When is modules NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 94,
+    "date": "2025-01-09T14:40:00.000Z",
+    "tags": [
+      "event-loop",
+      "closures"
+    ]
+  },
+  {
+    "id": "q-343",
+    "title": "What are the trade-offs of using generics?",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 61,
+    "date": "2024-05-17T10:53:00.000Z",
+    "tags": [
+      "intersections",
+      "generics",
+      "enums"
+    ]
+  },
+  {
+    "id": "q-344",
+    "title": "Explain how subscriptions works in GraphQL",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 41,
+    "date": "2024-01-24T03:40:00.000Z",
+    "tags": [
+      "mutations",
+      "federation",
+      "resolvers"
+    ]
+  },
+  {
+    "id": "q-345",
+    "title": "Explain how intersections works in TypeScript",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 96,
+    "date": "2025-05-05T13:12:00.000Z",
+    "tags": [
+      "intersections"
+    ]
+  },
+  {
+    "id": "q-346",
+    "title": "What are best practices for caching in System Design?",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 43,
+    "date": "2024-05-08T02:23:00.000Z",
+    "tags": [
+      "sharding"
+    ]
+  },
+  {
+    "id": "q-347",
+    "title": "When is tree-shaking NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 70,
+    "date": "2024-12-26T03:00:00.000Z",
+    "tags": [
+      "lazy-loading",
+      "code-splitting",
+      "profiling"
+    ]
+  },
+  {
+    "id": "q-348",
+    "title": "When should you use generics vs other approaches?",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 84,
+    "date": "2024-12-14T14:00:00.000Z",
+    "tags": [
+      "decorators"
+    ]
+  },
+  {
+    "id": "q-349",
+    "title": "Build a responsive component using mocking",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 45,
+    "date": "2024-09-01T02:14:00.000Z",
+    "tags": [
+      "vitest"
+    ]
+  },
+  {
+    "id": "q-350",
+    "title": "Compare unions with other TypeScript approaches",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 81,
+    "date": "2024-03-11T12:49:00.000Z",
+    "tags": [
+      "unions"
+    ]
+  },
+  {
+    "id": "q-351",
+    "title": "Explain how modules works in CSS",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 62,
+    "date": "2024-11-08T20:10:00.000Z",
+    "tags": [
+      "modules"
+    ]
+  },
+  {
+    "id": "q-352",
+    "title": "What are the trade-offs of using events?",
+    "difficulty": "junior",
+    "topic": "Node.js",
+    "score": 48,
+    "date": "2025-03-16T06:05:00.000Z",
+    "tags": [
+      "cluster",
+      "middleware",
+      "file-system"
+    ]
+  },
+  {
+    "id": "q-353",
+    "title": "What are best practices for intersections in TypeScript?",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 81,
+    "date": "2025-02-09T04:15:00.000Z",
+    "tags": [
+      "enums",
+      "intersections",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-354",
+    "title": "How do you test decorators effectively?",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 94,
+    "date": "2025-01-04T19:18:00.000Z",
+    "tags": [
+      "decorators"
+    ]
+  },
+  {
+    "id": "q-355",
+    "title": "When should you use real-time vs other approaches?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 81,
+    "date": "2024-04-06T23:25:00.000Z",
+    "tags": [
+      "real-time"
+    ]
+  },
+  {
+    "id": "q-356",
+    "title": "When is refs NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 73,
+    "date": "2024-05-03T15:40:00.000Z",
+    "tags": [
+      "portals"
+    ]
+  },
+  {
+    "id": "q-357",
+    "title": "How do you test refs effectively?",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 88,
+    "date": "2024-08-03T11:34:00.000Z",
+    "tags": [
+      "memo",
+      "context"
+    ]
+  },
+  {
+    "id": "q-358",
+    "title": "When is event-loop NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "JavaScript",
+    "score": 99,
+    "date": "2024-01-08T08:13:00.000Z",
+    "tags": [
+      "closures"
+    ]
+  },
+  {
+    "id": "q-359",
+    "title": "How would you implement refs at scale?",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 57,
+    "date": "2024-12-25T12:05:00.000Z",
+    "tags": [
+      "error-boundaries",
+      "memo"
+    ]
+  },
+  {
+    "id": "q-360",
+    "title": "Build a responsive component using generics",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 59,
+    "date": "2024-10-01T10:25:00.000Z",
+    "tags": [
+      "utility-types",
+      "decorators"
+    ]
+  },
+  {
+    "id": "q-361",
+    "title": "How would you implement caching at scale?",
+    "difficulty": "junior",
+    "topic": "Performance",
+    "score": 59,
+    "date": "2024-02-29T14:39:00.000Z",
+    "tags": [
+      "code-splitting",
+      "caching",
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-362",
+    "title": "Build a responsive component using responsive",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 62,
+    "date": "2024-12-25T00:10:00.000Z",
+    "tags": [
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-363",
+    "title": "Build a responsive component using subscriptions",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 89,
+    "date": "2025-01-18T08:46:00.000Z",
+    "tags": [
+      "caching",
+      "subscriptions",
+      "mutations"
+    ]
+  },
+  {
+    "id": "q-364",
+    "title": "Compare context with other React approaches",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 71,
+    "date": "2024-12-30T18:40:00.000Z",
+    "tags": [
+      "refs",
+      "reducers"
+    ]
+  },
+  {
+    "id": "q-365",
+    "title": "Build a responsive component using event-loop",
+    "difficulty": "junior",
+    "topic": "JavaScript",
+    "score": 97,
+    "date": "2024-07-07T05:16:00.000Z",
+    "tags": [
+      "async-await",
+      "closures",
+      "prototypes"
+    ]
+  },
+  {
+    "id": "q-366",
+    "title": "When should you use deployment vs other approaches?",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 55,
+    "date": "2024-01-02T01:54:00.000Z",
+    "tags": [
+      "deployment",
+      "ci-cd",
+      "docker"
+    ]
+  },
+  {
+    "id": "q-367",
+    "title": "Build a responsive component using reducers",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 54,
+    "date": "2025-04-21T01:35:00.000Z",
+    "tags": [
+      "memo",
+      "suspense"
+    ]
+  },
+  {
+    "id": "q-368",
+    "title": "What are best practices for cypress in Testing?",
+    "difficulty": "senior",
+    "topic": "Testing",
+    "score": 47,
+    "date": "2024-05-18T02:36:00.000Z",
+    "tags": [
+      "mocking"
+    ]
+  },
+  {
+    "id": "q-369",
+    "title": "Explain how federation works in GraphQL",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 95,
+    "date": "2025-05-03T12:04:00.000Z",
+    "tags": [
+      "queries",
+      "mutations",
+      "federation"
+    ]
+  },
+  {
+    "id": "q-370",
+    "title": "What are the trade-offs of using real-time?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 76,
+    "date": "2024-01-05T11:12:00.000Z",
+    "tags": [
+      "sharding",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-371",
+    "title": "How do you test sharding effectively?",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 86,
+    "date": "2025-05-12T15:49:00.000Z",
+    "tags": [
+      "real-time",
+      "load-balancing",
+      "microservices"
+    ]
+  },
+  {
+    "id": "q-372",
+    "title": "How would you implement queries at scale?",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 80,
+    "date": "2024-01-13T07:34:00.000Z",
+    "tags": [
+      "mutations"
+    ]
+  },
+  {
+    "id": "q-373",
+    "title": "Compare refs with other React approaches",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 66,
+    "date": "2024-02-23T06:33:00.000Z",
+    "tags": [
+      "hooks",
+      "refs"
+    ]
+  },
+  {
+    "id": "q-374",
+    "title": "Compare modules with other JavaScript approaches",
+    "difficulty": "mid",
+    "topic": "JavaScript",
+    "score": 97,
+    "date": "2024-02-17T01:58:00.000Z",
+    "tags": [
+      "promises"
+    ]
+  },
+  {
+    "id": "q-375",
+    "title": "When is resolvers NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 80,
+    "date": "2024-10-24T03:32:00.000Z",
+    "tags": [
+      "caching",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-376",
+    "title": "Explain how web-vitals works in Performance",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 58,
+    "date": "2024-08-10T21:08:00.000Z",
+    "tags": [
+      "web-vitals"
+    ]
+  },
+  {
+    "id": "q-377",
+    "title": "What are the trade-offs of using sharding?",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 48,
+    "date": "2024-05-19T07:04:00.000Z",
+    "tags": [
+      "microservices",
+      "sharding"
+    ]
+  },
+  {
+    "id": "q-378",
+    "title": "Build a responsive component using ci-cd",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 47,
+    "date": "2024-08-18T14:20:00.000Z",
+    "tags": [
+      "docker"
+    ]
+  },
+  {
+    "id": "q-379",
+    "title": "What are the trade-offs of using subscriptions?",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 91,
+    "date": "2024-05-15T03:05:00.000Z",
+    "tags": [
+      "mutations",
+      "resolvers"
+    ]
+  },
+  {
+    "id": "q-380",
+    "title": "What are best practices for load-balancing in System Design?",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 62,
+    "date": "2024-03-16T02:45:00.000Z",
+    "tags": [
+      "monitoring",
+      "real-time",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-381",
+    "title": "Explain how code-splitting works in Performance",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 75,
+    "date": "2025-05-02T12:54:00.000Z",
+    "tags": [
+      "caching",
+      "lazy-loading",
+      "web-vitals"
+    ]
+  },
+  {
+    "id": "q-382",
+    "title": "When is resolvers NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 43,
+    "date": "2025-02-15T04:07:00.000Z",
+    "tags": [
+      "queries"
+    ]
+  },
+  {
+    "id": "q-383",
+    "title": "What are best practices for file-system in Node.js?",
+    "difficulty": "junior",
+    "topic": "Node.js",
+    "score": 77,
+    "date": "2024-12-17T20:41:00.000Z",
+    "tags": [
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-384",
+    "title": "Debug a DevOps error involving ci-cd",
+    "difficulty": "mid",
+    "topic": "DevOps",
+    "score": 45,
+    "date": "2025-04-07T20:28:00.000Z",
+    "tags": [
+      "ci-cd",
+      "deployment"
+    ]
+  },
+  {
+    "id": "q-385",
+    "title": "Explain how mocking works in Testing",
+    "difficulty": "lead",
+    "topic": "Testing",
+    "score": 71,
+    "date": "2024-03-27T18:27:00.000Z",
+    "tags": [
+      "unit"
+    ]
+  },
+  {
+    "id": "q-386",
+    "title": "Debug a React error involving memo",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 68,
+    "date": "2025-04-10T05:17:00.000Z",
+    "tags": [
+      "refs",
+      "context"
+    ]
+  },
+  {
+    "id": "q-387",
+    "title": "How do you test modules effectively?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 66,
+    "date": "2024-05-05T20:18:00.000Z",
+    "tags": [
+      "modules"
+    ]
+  },
+  {
+    "id": "q-388",
+    "title": "How would you implement subscriptions at scale?",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 80,
+    "date": "2024-03-11T13:12:00.000Z",
+    "tags": [
+      "queries",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-389",
+    "title": "What are best practices for caching in GraphQL?",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 62,
+    "date": "2024-09-02T17:50:00.000Z",
+    "tags": [
+      "resolvers"
+    ]
+  },
+  {
+    "id": "q-390",
+    "title": "Explain how docker works in DevOps",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 97,
+    "date": "2024-06-12T19:14:00.000Z",
+    "tags": [
+      "kubernetes",
+      "nginx",
+      "deployment"
+    ]
+  },
+  {
+    "id": "q-391",
+    "title": "What are best practices for real-time in System Design?",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 46,
+    "date": "2025-01-27T18:14:00.000Z",
+    "tags": [
+      "microservices"
+    ]
+  },
+  {
+    "id": "q-392",
+    "title": "How do you test middleware effectively?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 51,
+    "date": "2025-03-09T12:22:00.000Z",
+    "tags": [
+      "middleware",
+      "streams",
+      "express"
+    ]
+  },
+  {
+    "id": "q-393",
+    "title": "What are best practices for cluster in Node.js?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 76,
+    "date": "2025-04-30T18:36:00.000Z",
+    "tags": [
+      "streams",
+      "cluster",
+      "express"
+    ]
+  },
+  {
+    "id": "q-394",
+    "title": "What are the trade-offs of using middleware?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 78,
+    "date": "2024-01-20T02:03:00.000Z",
+    "tags": [
+      "events",
+      "streams"
+    ]
+  },
+  {
+    "id": "q-395",
+    "title": "Explain how file-system works in Node.js",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 61,
+    "date": "2024-06-18T19:12:00.000Z",
+    "tags": [
+      "events"
+    ]
+  },
+  {
+    "id": "q-396",
+    "title": "How do you test grid effectively?",
+    "difficulty": "junior",
+    "topic": "CSS",
+    "score": 94,
+    "date": "2024-12-26T04:49:00.000Z",
+    "tags": [
+      "flexbox",
+      "variables"
+    ]
+  },
+  {
+    "id": "q-397",
+    "title": "How would you implement caching at scale?",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 60,
+    "date": "2024-10-27T03:21:00.000Z",
+    "tags": [
+      "queries",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-398",
+    "title": "What are the trade-offs of using media-queries?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 54,
+    "date": "2024-11-28T10:11:00.000Z",
+    "tags": [
+      "responsive"
+    ]
+  },
+  {
+    "id": "q-399",
+    "title": "Compare kubernetes with other DevOps approaches",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 84,
+    "date": "2024-03-06T05:46:00.000Z",
+    "tags": [
+      "nginx"
+    ]
+  },
+  {
+    "id": "q-400",
+    "title": "How do you test docker effectively?",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 99,
+    "date": "2024-06-11T19:14:00.000Z",
+    "tags": [
+      "monitoring",
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-401",
+    "title": "When is modules NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "JavaScript",
+    "score": 80,
+    "date": "2024-05-01T11:20:00.000Z",
+    "tags": [
+      "async-await"
+    ]
+  },
+  {
+    "id": "q-402",
+    "title": "Compare utility-types with other TypeScript approaches",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 62,
+    "date": "2024-04-17T07:44:00.000Z",
+    "tags": [
+      "enums",
+      "unions",
+      "intersections"
+    ]
+  },
+  {
+    "id": "q-403",
+    "title": "Explain how caching works in System Design",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 50,
+    "date": "2024-07-16T14:46:00.000Z",
+    "tags": [
+      "monitoring"
+    ]
+  },
+  {
+    "id": "q-404",
+    "title": "How would you implement web-vitals at scale?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 50,
+    "date": "2024-02-21T15:50:00.000Z",
+    "tags": [
+      "profiling",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-405",
+    "title": "Explain how async-await works in JavaScript",
+    "difficulty": "junior",
+    "topic": "JavaScript",
+    "score": 61,
+    "date": "2024-06-12T08:06:00.000Z",
+    "tags": [
+      "closures"
+    ]
+  },
+  {
+    "id": "q-406",
+    "title": "When should you use flexbox vs other approaches?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 85,
+    "date": "2025-04-27T02:21:00.000Z",
+    "tags": [
+      "grid",
+      "responsive"
+    ]
+  },
+  {
+    "id": "q-407",
+    "title": "Build a responsive component using refs",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 52,
+    "date": "2024-01-28T03:21:00.000Z",
+    "tags": [
+      "reducers",
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-408",
+    "title": "Compare tree-shaking with other Performance approaches",
+    "difficulty": "junior",
+    "topic": "Performance",
+    "score": 65,
+    "date": "2024-06-01T07:06:00.000Z",
+    "tags": [
+      "web-vitals",
+      "tree-shaking",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-409",
+    "title": "Explain how kubernetes works in DevOps",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 52,
+    "date": "2024-08-06T02:18:00.000Z",
+    "tags": [
+      "nginx",
+      "docker",
+      "ci-cd"
+    ]
+  },
+  {
+    "id": "q-410",
+    "title": "Compare generics with other TypeScript approaches",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 59,
+    "date": "2025-05-15T02:30:00.000Z",
+    "tags": [
+      "generics"
+    ]
+  },
+  {
+    "id": "q-411",
+    "title": "When should you use caching vs other approaches?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 63,
+    "date": "2024-07-17T05:23:00.000Z",
+    "tags": [
+      "profiling",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-412",
+    "title": "What are the trade-offs of using media-queries?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 76,
+    "date": "2024-05-14T07:53:00.000Z",
+    "tags": [
+      "flexbox",
+      "animations"
+    ]
+  },
+  {
+    "id": "q-413",
+    "title": "What are best practices for context in React?",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 75,
+    "date": "2025-02-17T17:26:00.000Z",
+    "tags": [
+      "context"
+    ]
+  },
+  {
+    "id": "q-414",
+    "title": "How do you test portals effectively?",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 45,
+    "date": "2025-03-27T07:30:00.000Z",
+    "tags": [
+      "refs",
+      "error-boundaries"
+    ]
+  },
+  {
+    "id": "q-415",
+    "title": "What are the trade-offs of using caching?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 48,
+    "date": "2024-03-29T05:13:00.000Z",
+    "tags": [
+      "caching",
+      "web-vitals",
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-416",
+    "title": "Debug a React error involving refs",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 60,
+    "date": "2025-02-25T20:09:00.000Z",
+    "tags": [
+      "context",
+      "memo"
+    ]
+  },
+  {
+    "id": "q-417",
+    "title": "How would you implement decorators at scale?",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 73,
+    "date": "2024-10-09T10:54:00.000Z",
+    "tags": [
+      "intersections"
+    ]
+  },
+  {
+    "id": "q-418",
+    "title": "How do you test event-loop effectively?",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 49,
+    "date": "2024-09-24T13:07:00.000Z",
+    "tags": [
+      "modules"
+    ]
+  },
+  {
+    "id": "q-419",
+    "title": "How do you test flexbox effectively?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 95,
+    "date": "2025-02-03T03:50:00.000Z",
+    "tags": [
+      "modules",
+      "variables",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-420",
+    "title": "What are the trade-offs of using resolvers?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 51,
+    "date": "2024-10-19T19:30:00.000Z",
+    "tags": [
+      "resolvers",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-421",
+    "title": "How would you implement real-time at scale?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 84,
+    "date": "2024-01-20T12:56:00.000Z",
+    "tags": [
+      "load-balancing",
+      "real-time"
+    ]
+  },
+  {
+    "id": "q-422",
+    "title": "Compare file-system with other Node.js approaches",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 92,
+    "date": "2025-04-04T11:01:00.000Z",
+    "tags": [
+      "cluster"
+    ]
+  },
+  {
+    "id": "q-423",
+    "title": "When is monitoring NOT the right optimization?",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 87,
+    "date": "2025-05-12T07:08:00.000Z",
+    "tags": [
+      "sharding",
+      "microservices"
+    ]
+  },
+  {
+    "id": "q-424",
+    "title": "When is event-loop NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 87,
+    "date": "2024-04-06T14:13:00.000Z",
+    "tags": [
+      "async-await",
+      "prototypes"
+    ]
+  },
+  {
+    "id": "q-425",
+    "title": "Compare closures with other JavaScript approaches",
+    "difficulty": "mid",
+    "topic": "JavaScript",
+    "score": 89,
+    "date": "2024-12-29T16:25:00.000Z",
+    "tags": [
+      "async-await",
+      "closures",
+      "promises"
+    ]
+  },
+  {
+    "id": "q-426",
+    "title": "Explain how mutations works in GraphQL",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 98,
+    "date": "2024-05-07T01:29:00.000Z",
+    "tags": [
+      "queries",
+      "mutations",
+      "federation"
+    ]
+  },
+  {
+    "id": "q-427",
+    "title": "What are the trade-offs of using vitest?",
+    "difficulty": "junior",
+    "topic": "Testing",
+    "score": 83,
+    "date": "2024-09-15T12:40:00.000Z",
+    "tags": [
+      "integration",
+      "e2e",
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-428",
+    "title": "How do you test portals effectively?",
+    "difficulty": "lead",
+    "topic": "React",
+    "score": 77,
+    "date": "2024-08-16T05:55:00.000Z",
+    "tags": [
+      "memo"
+    ]
+  },
+  {
+    "id": "q-429",
+    "title": "When is subscriptions NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 50,
+    "date": "2024-05-25T00:24:00.000Z",
+    "tags": [
+      "subscriptions",
+      "mutations"
+    ]
+  },
+  {
+    "id": "q-430",
+    "title": "Debug a DevOps error involving deployment",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 72,
+    "date": "2024-12-12T06:17:00.000Z",
+    "tags": [
+      "docker"
+    ]
+  },
+  {
+    "id": "q-431",
+    "title": "How do you test reducers effectively?",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 78,
+    "date": "2025-02-14T00:14:00.000Z",
+    "tags": [
+      "hooks",
+      "suspense",
+      "context"
+    ]
+  },
+  {
+    "id": "q-432",
+    "title": "What are best practices for microservices in System Design?",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 59,
+    "date": "2024-08-23T08:13:00.000Z",
+    "tags": [
+      "monitoring",
+      "sharding",
+      "microservices"
+    ]
+  },
+  {
+    "id": "q-433",
+    "title": "When should you use queries vs other approaches?",
+    "difficulty": "senior",
+    "topic": "GraphQL",
+    "score": 59,
+    "date": "2024-12-05T11:35:00.000Z",
+    "tags": [
+      "resolvers",
+      "federation",
+      "queries"
+    ]
+  },
+  {
+    "id": "q-434",
+    "title": "What are best practices for unions in TypeScript?",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 52,
+    "date": "2025-03-17T08:16:00.000Z",
+    "tags": [
+      "utility-types",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-435",
+    "title": "How do you test variables effectively?",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 86,
+    "date": "2024-07-25T21:20:00.000Z",
+    "tags": [
+      "variables",
+      "grid",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-436",
+    "title": "How would you implement refs at scale?",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 61,
+    "date": "2024-07-17T23:02:00.000Z",
+    "tags": [
+      "portals",
+      "reducers",
+      "refs"
+    ]
+  },
+  {
+    "id": "q-437",
+    "title": "Compare events with other Node.js approaches",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 58,
+    "date": "2025-03-08T05:53:00.000Z",
+    "tags": [
+      "events",
+      "file-system",
+      "streams"
+    ]
+  },
+  {
+    "id": "q-438",
+    "title": "When should you use enums vs other approaches?",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 81,
+    "date": "2025-01-25T05:43:00.000Z",
+    "tags": [
+      "generics",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-439",
+    "title": "Compare generics with other TypeScript approaches",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 77,
+    "date": "2024-08-03T10:23:00.000Z",
+    "tags": [
+      "unions"
+    ]
+  },
+  {
+    "id": "q-440",
+    "title": "How do you test caching effectively?",
+    "difficulty": "lead",
+    "topic": "System Design",
+    "score": 96,
+    "date": "2024-10-24T19:04:00.000Z",
+    "tags": [
+      "caching",
+      "microservices"
+    ]
+  },
+  {
+    "id": "q-441",
+    "title": "Explain how file-system works in Node.js",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 61,
+    "date": "2025-03-21T04:08:00.000Z",
+    "tags": [
+      "express",
+      "file-system",
+      "streams"
+    ]
+  },
+  {
+    "id": "q-442",
+    "title": "Build a responsive component using tree-shaking",
+    "difficulty": "senior",
+    "topic": "Performance",
+    "score": 80,
+    "date": "2025-02-02T02:31:00.000Z",
+    "tags": [
+      "profiling",
+      "code-splitting",
+      "lazy-loading"
+    ]
+  },
+  {
+    "id": "q-443",
+    "title": "What are the trade-offs of using flexbox?",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 76,
+    "date": "2024-05-20T06:48:00.000Z",
+    "tags": [
+      "responsive",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-444",
+    "title": "How do you test grid effectively?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 67,
+    "date": "2024-08-10T20:27:00.000Z",
+    "tags": [
+      "variables",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-445",
+    "title": "Debug a JavaScript error involving event-loop",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 88,
+    "date": "2025-01-09T11:00:00.000Z",
+    "tags": [
+      "closures",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-446",
+    "title": "Explain how caching works in GraphQL",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 84,
+    "date": "2024-11-16T23:15:00.000Z",
+    "tags": [
+      "queries"
+    ]
+  },
+  {
+    "id": "q-447",
+    "title": "When should you use mocking vs other approaches?",
+    "difficulty": "junior",
+    "topic": "Testing",
+    "score": 92,
+    "date": "2024-10-28T09:10:00.000Z",
+    "tags": [
+      "integration",
+      "unit"
+    ]
+  },
+  {
+    "id": "q-448",
+    "title": "How would you implement memo at scale?",
+    "difficulty": "senior",
+    "topic": "React",
+    "score": 97,
+    "date": "2025-03-30T21:08:00.000Z",
+    "tags": [
+      "error-boundaries",
+      "suspense"
+    ]
+  },
+  {
+    "id": "q-449",
+    "title": "Explain how prototypes works in JavaScript",
+    "difficulty": "mid",
+    "topic": "JavaScript",
+    "score": 53,
+    "date": "2024-04-26T07:46:00.000Z",
+    "tags": [
+      "promises",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-450",
+    "title": "How would you implement hooks at scale?",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 78,
+    "date": "2025-03-24T20:16:00.000Z",
+    "tags": [
+      "reducers",
+      "hooks",
+      "portals"
+    ]
+  },
+  {
+    "id": "q-451",
+    "title": "When is hooks NOT the right optimization?",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 75,
+    "date": "2024-08-01T14:24:00.000Z",
+    "tags": [
+      "context",
+      "memo",
+      "hooks"
+    ]
+  },
+  {
+    "id": "q-452",
+    "title": "Explain how load-balancing works in System Design",
+    "difficulty": "junior",
+    "topic": "System Design",
+    "score": 82,
+    "date": "2024-06-03T13:42:00.000Z",
+    "tags": [
+      "monitoring",
+      "load-balancing"
+    ]
+  },
+  {
+    "id": "q-453",
+    "title": "Build a responsive component using caching",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 58,
+    "date": "2024-08-02T03:32:00.000Z",
+    "tags": [
+      "federation",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-454",
+    "title": "How do you test generics effectively?",
+    "difficulty": "mid",
+    "topic": "TypeScript",
+    "score": 62,
+    "date": "2024-04-12T08:53:00.000Z",
+    "tags": [
+      "intersections"
+    ]
+  },
+  {
+    "id": "q-455",
+    "title": "What are the trade-offs of using web-vitals?",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 61,
+    "date": "2025-04-11T06:44:00.000Z",
+    "tags": [
+      "code-splitting",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-456",
+    "title": "When is cluster NOT the right optimization?",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 49,
+    "date": "2025-04-09T03:53:00.000Z",
+    "tags": [
+      "express"
+    ]
+  },
+  {
+    "id": "q-457",
+    "title": "Debug a TypeScript error involving enums",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 43,
+    "date": "2024-08-21T09:16:00.000Z",
+    "tags": [
+      "utility-types",
+      "enums",
+      "unions"
+    ]
+  },
+  {
+    "id": "q-458",
+    "title": "What are best practices for unions in TypeScript?",
+    "difficulty": "lead",
+    "topic": "TypeScript",
+    "score": 87,
+    "date": "2025-02-14T21:20:00.000Z",
+    "tags": [
+      "utility-types"
+    ]
+  },
+  {
+    "id": "q-459",
+    "title": "Build a responsive component using utility-types",
+    "difficulty": "senior",
+    "topic": "TypeScript",
+    "score": 62,
+    "date": "2024-12-05T20:10:00.000Z",
+    "tags": [
+      "utility-types"
+    ]
+  },
+  {
+    "id": "q-460",
+    "title": "Build a responsive component using async-await",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 57,
+    "date": "2024-02-28T12:25:00.000Z",
+    "tags": [
+      "async-await",
+      "closures",
+      "modules"
+    ]
+  },
+  {
+    "id": "q-461",
+    "title": "Build a responsive component using caching",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 46,
+    "date": "2024-12-22T23:03:00.000Z",
+    "tags": [
+      "profiling",
+      "tree-shaking",
+      "code-splitting"
+    ]
+  },
+  {
+    "id": "q-462",
+    "title": "How do you test code-splitting effectively?",
+    "difficulty": "junior",
+    "topic": "Performance",
+    "score": 95,
+    "date": "2024-07-13T11:39:00.000Z",
+    "tags": [
+      "profiling",
+      "web-vitals",
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-463",
+    "title": "What are the trade-offs of using media-queries?",
+    "difficulty": "senior",
+    "topic": "CSS",
+    "score": 40,
+    "date": "2024-01-24T02:16:00.000Z",
+    "tags": [
+      "media-queries",
+      "flexbox"
+    ]
+  },
+  {
+    "id": "q-464",
+    "title": "What are best practices for caching in GraphQL?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 67,
+    "date": "2024-09-22T16:44:00.000Z",
+    "tags": [
+      "federation",
+      "caching",
+      "mutations"
+    ]
+  },
+  {
+    "id": "q-465",
+    "title": "When should you use middleware vs other approaches?",
+    "difficulty": "junior",
+    "topic": "Node.js",
+    "score": 81,
+    "date": "2025-04-01T19:03:00.000Z",
+    "tags": [
+      "streams",
+      "file-system"
+    ]
+  },
+  {
+    "id": "q-466",
+    "title": "Build a responsive component using variables",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 61,
+    "date": "2024-02-08T15:20:00.000Z",
+    "tags": [
+      "variables",
+      "media-queries",
+      "responsive"
+    ]
+  },
+  {
+    "id": "q-467",
+    "title": "When should you use load-balancing vs other approaches?",
+    "difficulty": "mid",
+    "topic": "System Design",
+    "score": 45,
+    "date": "2024-11-25T12:25:00.000Z",
+    "tags": [
+      "real-time"
+    ]
+  },
+  {
+    "id": "q-468",
+    "title": "What are the trade-offs of using closures?",
+    "difficulty": "lead",
+    "topic": "JavaScript",
+    "score": 87,
+    "date": "2024-08-16T10:07:00.000Z",
+    "tags": [
+      "event-loop",
+      "prototypes"
+    ]
+  },
+  {
+    "id": "q-469",
+    "title": "Explain how refs works in React",
+    "difficulty": "junior",
+    "topic": "React",
+    "score": 90,
+    "date": "2024-10-12T17:00:00.000Z",
+    "tags": [
+      "refs"
+    ]
+  },
+  {
+    "id": "q-470",
+    "title": "What are the trade-offs of using deployment?",
+    "difficulty": "junior",
+    "topic": "DevOps",
+    "score": 92,
+    "date": "2025-05-01T10:23:00.000Z",
+    "tags": [
+      "deployment",
+      "kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "id": "q-471",
+    "title": "How do you test events effectively?",
+    "difficulty": "senior",
+    "topic": "Node.js",
+    "score": 85,
+    "date": "2024-08-30T22:42:00.000Z",
+    "tags": [
+      "streams",
+      "events"
+    ]
+  },
+  {
+    "id": "q-472",
+    "title": "Debug a JavaScript error involving modules",
+    "difficulty": "senior",
+    "topic": "JavaScript",
+    "score": 75,
+    "date": "2024-01-02T10:22:00.000Z",
+    "tags": [
+      "closures"
+    ]
+  },
+  {
+    "id": "q-473",
+    "title": "Build a responsive component using queries",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 46,
+    "date": "2024-09-09T04:52:00.000Z",
+    "tags": [
+      "caching",
+      "queries"
+    ]
+  },
+  {
+    "id": "q-474",
+    "title": "Debug a System Design error involving microservices",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 46,
+    "date": "2024-08-22T06:45:00.000Z",
+    "tags": [
+      "load-balancing",
+      "monitoring",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-475",
+    "title": "How do you test tree-shaking effectively?",
+    "difficulty": "mid",
+    "topic": "Performance",
+    "score": 71,
+    "date": "2024-03-04T14:29:00.000Z",
+    "tags": [
+      "tree-shaking"
+    ]
+  },
+  {
+    "id": "q-476",
+    "title": "When should you use portals vs other approaches?",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 86,
+    "date": "2025-02-03T05:44:00.000Z",
+    "tags": [
+      "hooks",
+      "error-boundaries",
+      "suspense"
+    ]
+  },
+  {
+    "id": "q-477",
+    "title": "How do you test responsive effectively?",
+    "difficulty": "lead",
+    "topic": "CSS",
+    "score": 66,
+    "date": "2024-11-06T10:32:00.000Z",
+    "tags": [
+      "media-queries"
+    ]
+  },
+  {
+    "id": "q-478",
+    "title": "Compare kubernetes with other DevOps approaches",
+    "difficulty": "lead",
+    "topic": "DevOps",
+    "score": 78,
+    "date": "2024-08-19T04:08:00.000Z",
+    "tags": [
+      "docker",
+      "kubernetes",
+      "nginx"
+    ]
+  },
+  {
+    "id": "q-479",
+    "title": "When should you use subscriptions vs other approaches?",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 79,
+    "date": "2024-11-19T06:12:00.000Z",
+    "tags": [
+      "caching",
+      "federation"
+    ]
+  },
+  {
+    "id": "q-480",
+    "title": "When should you use real-time vs other approaches?",
+    "difficulty": "junior",
+    "topic": "System Design",
+    "score": 88,
+    "date": "2024-12-21T20:20:00.000Z",
+    "tags": [
+      "sharding",
+      "load-balancing",
+      "real-time"
+    ]
+  },
+  {
+    "id": "q-481",
+    "title": "How would you implement cypress at scale?",
+    "difficulty": "senior",
+    "topic": "Testing",
+    "score": 96,
+    "date": "2024-12-11T23:57:00.000Z",
+    "tags": [
+      "mocking",
+      "tdd",
+      "cypress"
+    ]
+  },
+  {
+    "id": "q-482",
+    "title": "Explain how caching works in Performance",
+    "difficulty": "junior",
+    "topic": "Performance",
+    "score": 52,
+    "date": "2024-07-14T04:03:00.000Z",
+    "tags": [
+      "web-vitals"
+    ]
+  },
+  {
+    "id": "q-483",
+    "title": "Compare monitoring with other System Design approaches",
+    "difficulty": "senior",
+    "topic": "System Design",
+    "score": 53,
+    "date": "2024-03-15T01:44:00.000Z",
+    "tags": [
+      "sharding"
+    ]
+  },
+  {
+    "id": "q-484",
+    "title": "When is resolvers NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 87,
+    "date": "2024-11-11T21:47:00.000Z",
+    "tags": [
+      "subscriptions"
+    ]
+  },
+  {
+    "id": "q-485",
+    "title": "Compare caching with other GraphQL approaches",
+    "difficulty": "lead",
+    "topic": "GraphQL",
+    "score": 64,
+    "date": "2024-12-20T21:03:00.000Z",
+    "tags": [
+      "mutations",
+      "federation"
+    ]
+  },
+  {
+    "id": "q-486",
+    "title": "Compare caching with other Performance approaches",
+    "difficulty": "lead",
+    "topic": "Performance",
+    "score": 93,
+    "date": "2024-04-13T19:55:00.000Z",
+    "tags": [
+      "lazy-loading",
+      "web-vitals",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-487",
+    "title": "Debug a Node.js error involving cluster",
+    "difficulty": "junior",
+    "topic": "Node.js",
+    "score": 51,
+    "date": "2024-05-30T14:11:00.000Z",
+    "tags": [
+      "cluster",
+      "streams",
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-488",
+    "title": "How would you implement flexbox at scale?",
+    "difficulty": "mid",
+    "topic": "CSS",
+    "score": 50,
+    "date": "2024-05-22T17:16:00.000Z",
+    "tags": [
+      "modules",
+      "flexbox",
+      "media-queries"
+    ]
+  },
+  {
+    "id": "q-489",
+    "title": "Build a responsive component using nginx",
+    "difficulty": "senior",
+    "topic": "DevOps",
+    "score": 78,
+    "date": "2024-01-21T04:59:00.000Z",
+    "tags": [
+      "ci-cd",
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "q-490",
+    "title": "When is memo NOT the right optimization?",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 51,
+    "date": "2025-02-05T22:20:00.000Z",
+    "tags": [
+      "error-boundaries",
+      "suspense",
+      "portals"
+    ]
+  },
+  {
+    "id": "q-491",
+    "title": "How would you implement mutations at scale?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 62,
+    "date": "2024-10-05T17:25:00.000Z",
+    "tags": [
+      "federation"
+    ]
+  },
+  {
+    "id": "q-492",
+    "title": "What are best practices for streams in Node.js?",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 75,
+    "date": "2024-07-03T09:13:00.000Z",
+    "tags": [
+      "cluster"
+    ]
+  },
+  {
+    "id": "q-493",
+    "title": "Debug a React error involving portals",
+    "difficulty": "mid",
+    "topic": "React",
+    "score": 42,
+    "date": "2025-04-08T20:39:00.000Z",
+    "tags": [
+      "memo"
+    ]
+  },
+  {
+    "id": "q-494",
+    "title": "Compare mocking with other Testing approaches",
+    "difficulty": "junior",
+    "topic": "Testing",
+    "score": 98,
+    "date": "2024-10-03T23:18:00.000Z",
+    "tags": [
+      "vitest",
+      "unit"
+    ]
+  },
+  {
+    "id": "q-495",
+    "title": "What are the trade-offs of using resolvers?",
+    "difficulty": "mid",
+    "topic": "GraphQL",
+    "score": 60,
+    "date": "2024-01-23T09:57:00.000Z",
+    "tags": [
+      "federation",
+      "caching"
+    ]
+  },
+  {
+    "id": "q-496",
+    "title": "When should you use mutations vs other approaches?",
+    "difficulty": "junior",
+    "topic": "GraphQL",
+    "score": 53,
+    "date": "2024-09-30T00:40:00.000Z",
+    "tags": [
+      "queries"
+    ]
+  },
+  {
+    "id": "q-497",
+    "title": "How would you implement events at scale?",
+    "difficulty": "mid",
+    "topic": "Node.js",
+    "score": 41,
+    "date": "2024-11-27T02:47:00.000Z",
+    "tags": [
+      "file-system",
+      "express",
+      "middleware"
+    ]
+  },
+  {
+    "id": "q-498",
+    "title": "Explain how closures works in JavaScript",
+    "difficulty": "junior",
+    "topic": "JavaScript",
+    "score": 76,
+    "date": "2024-04-01T08:35:00.000Z",
+    "tags": [
+      "async-await",
+      "closures",
+      "event-loop"
+    ]
+  },
+  {
+    "id": "q-499",
+    "title": "How would you implement file-system at scale?",
+    "difficulty": "lead",
+    "topic": "Node.js",
+    "score": 83,
+    "date": "2024-08-09T10:01:00.000Z",
+    "tags": [
+      "file-system",
+      "cluster"
+    ]
+  },
+  {
+    "id": "q-500",
+    "title": "How do you test enums effectively?",
+    "difficulty": "junior",
+    "topic": "TypeScript",
+    "score": 62,
+    "date": "2024-01-24T22:54:00.000Z",
+    "tags": [
+      "utility-types",
+      "decorators",
+      "enums"
+    ]
+  }
+]
